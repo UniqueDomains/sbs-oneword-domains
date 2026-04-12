@@ -1,22 +1,22 @@
-# Available .SBS One-Word Domains (5,621,991)
+# Available .SBS One-Word Domains (9,331)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C330%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C991%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C333%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C331%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .sbs one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .sbs one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,330-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,991 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,330 rows · **Live catalog:** 5,621,991 domains
+**Public extract:** 9,333 rows · **Live catalog:** 9,331 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/sbs`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SBS one-word domain c
 
 ### Files
 
-- `sbs.csv` — public CSV extract (9,330 rows)
-- `sbs.json` — public JSON extract (9,330 rows)
+- `sbs.csv` — public CSV extract (9,333 rows)
+- `sbs.json` — public JSON extract (9,333 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,7 +67,7 @@ print(df.head())
 | conscious.sbs  | available | $19.48    | —             | 89             | 38     | 9      | namecheap                          |
 | prompt.sbs     | resell    | —         | —             | 114            | 68     | 6      | Dynadot LLC                        |
 | converse.sbs   | premium   | $414.38   | $552.50       | 64             | 73     | 8      | name.com                           |
-| eleven.sbs     | available | $19.48    | —             | 88             | 34     | 6      | namecheap                          |
+| eleven.sbs     | available | $19.48    | —             | 88             | 33     | 6      | namecheap                          |
 | business.sbs   | resell    | —         | —             | 100            | 53     | 8      | Spaceship, Inc.                    |
 | easy.sbs       | premium   | $414.38   | $552.50       | 128            | 68     | 4      | name.com                           |
 | adaptive.sbs   | available | $19.48    | —             | 76             | 32     | 8      | namecheap                          |
@@ -76,10 +76,10 @@ print(df.head())
 | weird.sbs      | available | $19.48    | —             | 64             | 29     | 5      | namecheap                          |
 | digital.sbs    | resell    | —         | —             | 100            | 50     | 7      | Porkbun, LLC                       |
 | nationwide.sbs | premium   | $51.56    | $68.75        | 76             | 66     | 10     | name.com                           |
-| adept.sbs      | available | $19.48    | —             | 92             | 27     | 5      | namecheap                          |
-| startup.sbs    | resell    | —         | —             | 82             | 48     | 7      | Global Domains International, Inc. |
-| power.sbs      | premium   | $71.83    | $287.30       | 98             | 62     | 5      | namecheap                          |
 | curative.sbs   | available | $19.48    | —             | 92             | 27     | 8      | namecheap                          |
+| startup.sbs    | resell    | —         | —             | 82             | 47     | 7      | Global Domains International, Inc. |
+| power.sbs      | premium   | $71.83    | $287.30       | 98             | 62     | 5      | namecheap                          |
+| adept.sbs      | available | $19.48    | —             | 92             | 26     | 5      | namecheap                          |
 | swap.sbs       | resell    | —         | —             | 98             | 39     | 4      | Dynadot LLC                        |
 | seventeen.sbs  | premium   | $51.56    | $68.75        | 84             | 62     | 9      | name.com                           |
 | remedial.sbs   | available | $19.48    | —             | 86             | 24     | 8      | namecheap                          |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,330-row public sample | 5,621,991 live domains                           |
+| 9,333-row public sample | 9,331 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
