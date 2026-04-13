@@ -74,7 +74,7 @@ print(df.head())
 | bot.sbs        | resell    | —         | —             | 98             | 53     | 3      | Dynadot LLC                        |
 | fuck.sbs       | premium   | $18.20    | $36.40        | 74             | 68     | 4      | namecheap                          |
 | weird.sbs      | available | $19.48    | —             | 64             | 29     | 5      | namecheap                          |
-| digital.sbs    | resell    | —         | —             | 100            | 50     | 7      | Porkbun, LLC                       |
+| digital.sbs    | resell    | —         | —             | 100            | 49     | 7      | Porkbun, LLC                       |
 | nationwide.sbs | premium   | $51.56    | $68.75        | 76             | 66     | 10     | name.com                           |
 | curative.sbs   | available | $19.48    | —             | 92             | 27     | 8      | namecheap                          |
 | startup.sbs    | resell    | —         | —             | 82             | 47     | 7      | Global Domains International, Inc. |
