@@ -1,22 +1,22 @@
-# Available .SBS One-Word Domains (9,333)
+# Available .SBS One-Word Domains (11,807)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C333%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C333%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C807%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .sbs one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .sbs one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,807 domains** on the canonical page below.
 
-**Public extract:** 9,333 rows · **Live catalog:** 9,333 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,807 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/sbs`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SBS one-word domain c
 
 ### Files
 
-- `sbs.csv` — public CSV extract (9,333 rows)
-- `sbs.json` — public JSON extract (9,333 rows)
+- `sbs.csv` — public CSV extract (1,000 rows)
+- `sbs.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| conscious.sbs  | available | $19.48    | —             | 89             | 38     | 9      | namecheap                          |
-| prompt.sbs     | resell    | —         | —             | 114            | 68     | 6      | Dynadot LLC                        |
-| converse.sbs   | premium   | $414.38   | $552.50       | 64             | 73     | 8      | name.com                           |
-| eleven.sbs     | available | $19.48    | —             | 88             | 33     | 6      | namecheap                          |
-| business.sbs   | resell    | —         | —             | 100            | 53     | 8      | Spaceship, Inc.                    |
-| easy.sbs       | premium   | $414.38   | $552.50       | 128            | 68     | 4      | name.com                           |
-| adaptive.sbs   | available | $19.48    | —             | 76             | 32     | 8      | namecheap                          |
-| bot.sbs        | resell    | —         | —             | 98             | 53     | 3      | Dynadot LLC                        |
-| fuck.sbs       | premium   | $18.20    | $36.40        | 74             | 68     | 4      | namecheap                          |
-| weird.sbs      | available | $19.48    | —             | 64             | 29     | 5      | namecheap                          |
-| digital.sbs    | resell    | —         | —             | 100            | 49     | 7      | Porkbun, LLC                       |
-| nationwide.sbs | premium   | $51.56    | $68.75        | 76             | 66     | 10     | name.com                           |
-| curative.sbs   | available | $19.48    | —             | 92             | 27     | 8      | namecheap                          |
-| startup.sbs    | resell    | —         | —             | 82             | 47     | 7      | Global Domains International, Inc. |
-| power.sbs      | premium   | $71.83    | $287.30       | 98             | 62     | 5      | namecheap                          |
-| adept.sbs      | available | $19.48    | —             | 92             | 26     | 5      | namecheap                          |
-| swap.sbs       | resell    | —         | —             | 98             | 39     | 4      | Dynadot LLC                        |
-| seventeen.sbs  | premium   | $51.56    | $68.75        | 84             | 62     | 9      | name.com                           |
-| remedial.sbs   | available | $19.48    | —             | 86             | 24     | 8      | namecheap                          |
-| chatbot.sbs    | resell    | —         | —             | 82             | 38     | 7      | Dynadot LLC                        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| shortcuts.sbs     | available | $1.49     | —             | 48             | 41     | 10     | name.com    |
+| joy.sbs           | resell    | —         | —             | 78             | 42     | 3      | Dynadot LLC |
+| Chanel.sbs        | premium   | $309.40   | $618.80       | 80             | 77     | 6      | namecheap   |
+| echoes.sbs        | available | $1.49     | —             | 56             | 24     | 6      | name.com    |
+| travelers.sbs     | premium   | $282.88   | $565.76       | 58             | 61     | 9      | namesilo    |
+| inhouse.sbs       | available | $1.49     | —             | 70             | 23     | 8      | name.com    |
+| regions.sbs       | premium   | $154.70   | $309.40       | 64             | 59     | 7      | namecheap   |
+| CapeCod.sbs       | available | $19.48    | —             | 78             | 22     | 8      | namecheap   |
+| coins.sbs         | premium   | $154.70   | $309.40       | 56             | 41     | 5      | namecheap   |
+| distributed.sbs   | available | $1.49     | —             | 64             | 21     | 11     | name.com    |
+| Tools.sbs         | premium   | $154.70   | $309.40       | 56             | 40     | 5      | namecheap   |
+| generations.sbs   | available | $1.49     | —             | 56             | 20     | 11     | name.com    |
+| lets.sbs          | premium   | $19.60    | $39.20        | 77             | 39     | 4      | namecheap   |
+| snaps.sbs         | available | $1.49     | —             | 52             | 20     | 5      | name.com    |
+| justin.sbs        | premium   | $154.70   | $309.40       | 58             | 38     | 7      | namecheap   |
+| gobeyond.sbs      | available | $1.49     | —             | 76             | 18     | 9      | name.com    |
+| events.sbs        | premium   | $309.40   | $618.80       | 68             | 37     | 6      | namecheap   |
+| enlightenment.sbs | available | $1.49     | —             | 62             | 18     | 13     | name.com    |
+| spectra.sbs       | premium   | $309.40   | $618.80       | 62             | 34     | 7      | namecheap   |
+| protocols.sbs     | available | $1.49     | —             | 50             | 17     | 9      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,333-row public sample | 9,333 live domains                               |
+| 1,000-row public sample | 11,807 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
