@@ -425,6 +425,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26640018-f718-44ee-ae31-1e35d5206b3e,aswespeak.sbs,available,1.49,,58,2,11,name.com,,
 268688df-c59a-4a7a-950f-7b63493ce2d5,dropahint.sbs,available,1.49,,78,1,11,name.com,,
 269b9e5b-1fff-4eeb-b893-b1b4bebd5dfc,brands.sbs,premium,154.7,309.4,62,28,6,namecheap,,
+269f82a2-54bd-4925-a4ce-18b1f376a5ac,retina.sbs,premium,,,74,23,6,,,
 26b39459-6525-4504-b286-9aeb58c739a4,footballs.sbs,premium,32.45,65.45,64,5,9,namesilo,,
 26f77fb8-24e7-4520-938d-d830652f4dc8,thickens.sbs,available,1.49,,48,1,8,name.com,,
 271fa511-330e-43c7-831f-79ed6edad3de,publicoffice.sbs,available,1.49,,69,2,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58f198b8-d4a9-4d62-898f-eb6cd221f05f,intheeventof.sbs,available,1.49,,46,2,15,name.com,,
 590f7372-f7f5-41b6-9358-acdf583e5281,gonefishing.sbs,available,1.49,,72,7,12,name.com,,
 59153bf7-9eff-4c09-8bde-e35f798ad1fa,Ilostmywallet.sbs,available,19.48,,50,1,16,namecheap,,
-591b8c5b-d514-458f-a8ad-c076c87f7fd5,midbreakfast.sbs,available,1.49,,70,1,12,name.com,,
