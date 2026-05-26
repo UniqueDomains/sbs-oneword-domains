@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sbs one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,255 domains · **Median ask:** $37.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/sbs`  
 **Best for:** founders, investors, studios
 
@@ -69,10 +69,10 @@ print(df.head())
 | dogsick.sbs   | available | $1.49     | —             | 90             | 1      | 7      | name.com    |
 | getlife.sbs   | available | $1.49     | —             | 80             | 5      | 8      | name.com    |
 | leaveon.sbs   | available | $1.49     | —             | 80             | 1      | 8      | name.com    |
-| rumcake.sbs   | available | $1.49     | —             | 81             | 3      | 8      | name.com    |
+| rumcake.sbs   | available | $1.49     | —             | 81             | 2      | 8      | name.com    |
 | FabFour.sbs   | available | $1.49     | —             | 82             | 3      | 8      | name.com    |
 | beawake.sbs   | available | $1.49     | —             | 84             | 3      | 8      | name.com    |
-| fitinto.sbs   | available | $1.49     | —             | 84             | 2      | 8      | name.com    |
+| fitinto.sbs   | available | $1.49     | —             | 84             | 1      | 8      | name.com    |
 | chaitea.sbs   | available | $1.49     | —             | 86             | 3      | 8      | name.com    |
 | bedframe.sbs  | available | $1.49     | —             | 80             | 3      | 9      | name.com    |
 | getjiggy.sbs  | available | $1.49     | —             | 80             | 2      | 9      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
