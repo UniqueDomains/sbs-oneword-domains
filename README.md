@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .sbs one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,255 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,255 domains · **Median ask:** $37.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,255 domains · **Median ask:** $54.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/sbs`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| finals.sbs    | available | $1.49     | —             | 80             | 7      | 6      | name.com    |
-| stirup.sbs    | available | $1.49     | —             | 82             | 3      | 7      | name.com    |
-| dogsick.sbs   | available | $1.49     | —             | 90             | 1      | 7      | name.com    |
-| getlife.sbs   | available | $1.49     | —             | 80             | 5      | 8      | name.com    |
-| leaveon.sbs   | available | $1.49     | —             | 80             | 1      | 8      | name.com    |
-| rumcake.sbs   | available | $1.49     | —             | 81             | 2      | 8      | name.com    |
-| FabFour.sbs   | available | $1.49     | —             | 82             | 3      | 8      | name.com    |
-| beawake.sbs   | available | $1.49     | —             | 84             | 3      | 8      | name.com    |
-| fitinto.sbs   | available | $1.49     | —             | 84             | 1      | 8      | name.com    |
-| chaitea.sbs   | available | $1.49     | —             | 86             | 3      | 8      | name.com    |
-| bedframe.sbs  | available | $1.49     | —             | 80             | 3      | 9      | name.com    |
-| getjiggy.sbs  | available | $1.49     | —             | 80             | 2      | 9      | name.com    |
-| midautumn.sbs | available | $1.49     | —             | 80             | 2      | 9      | name.com    |
-| shortcuts.sbs | available | $1.49     | —             | 48             | 41     | 10     | name.com    |
-| joy.sbs       | resell    | —         | —             | 78             | 41     | 3      | Dynadot LLC |
-| Chanel.sbs    | premium   | $309.40   | $618.80       | 80             | 77     | 6      | namecheap   |
-| echoes.sbs    | available | $1.49     | —             | 56             | 24     | 6      | name.com    |
-| travelers.sbs | premium   | $282.88   | $565.76       | 58             | 61     | 9      | namesilo    |
-| inhouse.sbs   | available | $1.49     | —             | 70             | 23     | 8      | name.com    |
-| regions.sbs   | premium   | $154.70   | $309.40       | 64             | 59     | 7      | namecheap   |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| deck.sbs        | premium   | $19.60    | $39.20        | 94             | 29     | 4      | namecheap |
+| look.sbs        | premium   | $282.88   | $565.76       | 80             | 33     | 4      | namesilo  |
+| times.sbs       | premium   | $154.70   | $309.40       | 80             | 24     | 5      | namecheap |
+| Crayola.sbs     | premium   | $282.88   | $565.76       | 80             | 61     | 7      | namesilo  |
+| two.sbs         | premium   | $103.12   | $137.50       | 80             | 27     | 3      | name.com  |
+| imagine.sbs     | premium   | $154.70   | $309.40       | 100            | 41     | 7      | namecheap |
+| auditory.sbs    | available | $1.49     | —             | 88             | 6      | 8      | name.com  |
+| wealth.sbs      | premium   | $141.44   | $282.88       | 84             | 33     | 6      | namesilo  |
+| appreciate.sbs  | available | $1.49     | —             | 84             | 13     | 10     | name.com  |
+| vacuum.sbs      | available | $1.49     | —             | 90             | 18     | 6      | name.com  |
+| wireless.sbs    | premium   | $143.65   | $574.60       | 106            | 24     | 8      | namecheap |
+| overjoy.sbs     | available | $1.49     | —             | 102            | 3      | 7      | name.com  |
+| lookup.sbs      | premium   | $384      | $768          | 82             | 30     | 7      | namesilo  |
+| culture.sbs     | premium   | $143.65   | $287.30       | 98             | 39     | 7      | namecheap |
+| cordial.sbs     | available | $1.49     | $24.99        | 98             | 12     | 7      | name.com  |
+| binding.sbs     | available | $1.49     | —             | 92             | 8      | 7      | name.com  |
+| coat.sbs        | premium   | $282.88   | $565.76       | 100            | 11     | 4      | namesilo  |
+| learn.sbs       | premium   | $309.40   | $618.80       | 82             | 42     | 5      | namecheap |
+| lightweight.sbs | premium   | $32.45    | $65.45        | 113            | 9      | 11     | namesilo  |
+| hate.sbs        | premium   | $16.52    | $33.04        | 86             | 22     | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
