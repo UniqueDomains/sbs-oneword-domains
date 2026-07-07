@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .sbs one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,255 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,255 domains · **Median ask:** $54.40 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,255 domains · **Median ask:** $54.58 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/sbs`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/sbs`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SBS one-word domain c
 
 ### Files
 
-- `sbs.csv` — public CSV extract (1,000 rows)
-- `sbs.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `sbs.csv`, public CSV extract (1,000 rows)
+- `sbs.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| deck.sbs        | premium   | $19.60    | $39.20        | 94             | 29     | 4      | namecheap |
-| look.sbs        | premium   | $282.88   | $565.76       | 80             | 33     | 4      | namesilo  |
-| times.sbs       | premium   | $154.70   | $309.40       | 80             | 24     | 5      | namecheap |
-| Crayola.sbs     | premium   | $282.88   | $565.76       | 80             | 61     | 7      | namesilo  |
-| two.sbs         | premium   | $103.12   | $137.50       | 80             | 27     | 3      | name.com  |
-| imagine.sbs     | premium   | $154.70   | $309.40       | 100            | 41     | 7      | namecheap |
-| auditory.sbs    | available | $1.49     | —             | 88             | 6      | 8      | name.com  |
-| wealth.sbs      | premium   | $141.44   | $282.88       | 84             | 33     | 6      | namesilo  |
-| appreciate.sbs  | available | $1.49     | —             | 84             | 13     | 10     | name.com  |
-| vacuum.sbs      | available | $1.49     | —             | 90             | 18     | 6      | name.com  |
-| wireless.sbs    | premium   | $143.65   | $574.60       | 106            | 24     | 8      | namecheap |
-| overjoy.sbs     | available | $1.49     | —             | 102            | 3      | 7      | name.com  |
-| lookup.sbs      | premium   | $384      | $768          | 82             | 30     | 7      | namesilo  |
-| culture.sbs     | premium   | $143.65   | $287.30       | 98             | 39     | 7      | namecheap |
-| cordial.sbs     | available | $1.49     | $24.99        | 98             | 12     | 7      | name.com  |
-| binding.sbs     | available | $1.49     | —             | 92             | 8      | 7      | name.com  |
-| coat.sbs        | premium   | $282.88   | $565.76       | 100            | 11     | 4      | namesilo  |
-| learn.sbs       | premium   | $309.40   | $618.80       | 82             | 42     | 5      | namecheap |
-| lightweight.sbs | premium   | $32.45    | $65.45        | 113            | 9      | 11     | namesilo  |
-| hate.sbs        | premium   | $16.52    | $33.04        | 86             | 22     | 4      | namesilo  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| acute.sbs  | available | $1.49     | $24.99        | high           | low    | 5      | name.com    |
+| humane.sbs | resell    | —         | —             | high           | low    | 6      | Dynadot LLC |
+| ada.sbs    | premium   | $282.88   | $565.76       | medium         | medium | 3      | namesilo    |
+| adieu.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
+| ale.sbs    | premium   | $65.45    | $140.80       | medium         | low    | 3      | namesilo    |
+| amuse.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
+| ant.sbs    | premium   | $77       | $154          | high           | medium | 3      | namecheap   |
+| balmy.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
+| big.sbs    | premium   | $103.12   | $137.50       | high           | medium | 3      | name.com    |
+| eaten.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
+| bob.sbs    | premium   | $282.88   | $565.76       | high           | medium | 3      | namesilo    |
+| faded.sbs  | available | $1.49     | —             | medium         | low    | 5      | name.com    |
+| boy.sbs    | premium   | $77       | $154          | medium         | low    | 3      | namecheap   |
+| heads.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
+| cup.sbs    | premium   | $309.40   | $618.80       | high           | low    | 3      | namecheap   |
+| hence.sbs  | available | $1.49     | —             | medium         | low    | 5      | name.com    |
+| die.sbs    | premium   | $77       | $154          | medium         | low    | 3      | namecheap   |
+| lousy.sbs  | available | $1.49     | $24.99        | medium         | low    | 5      | name.com    |
+| dye.sbs    | premium   | $65.45    | $140.80       | medium         | low    | 3      | namesilo    |
+| ounce.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word .sbs domains. The names lean short, direct, and brandable, with examples ranging from action phrases like getin.sbs, geton.sbs, and getup.sbs to dictionary-style words like finals.sbs and edamame.sbs. With a median ask of 37.44, the selection sits in a low entry-price range, which can suit founders who want an ownable option now and investors testing low-cost inventory. When comparing these domains, focus on memorability, spelling clarity, meaning, and whether the word feels commercially usable without extra explanation.
+This list gathers one-word .SBS domain names across a wide range of themes, from lifestyle and food to energy and everyday phrases. With 12,255 names and a median ask of $54.58, the set favors low-cost entry over premium pricing. Whether you're comparing names for potential resale or scanning for a brandable pick to launch under, the focus stays on price, naming style, and how easy each domain is to say and remember.
 
-- All results are one-word domains on the .sbs extension
-- Median ask across this set is 37.44
-- Examples include finals.sbs, getup.sbs, and edamame.sbs
-- Best judged on spelling, recall, and price discipline
+- 12,255 one-word .SBS domains across broad naming themes
+- Median ask across the list: $54.58
+- Names range from single words to short phrase blends
+- Compare price and renewal before committing to a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
