@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sbs one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,128 domains · **Median ask:** $47.04 · **High-demand under $2,500:** 73
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/sbs`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,6 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| damn.sbs   | premium   | $26.25    | $35           | high           | low    | 4      | name.com    |
-| one.sbs    | premium   | $414.38   | $552.50       | high           | medium | 3      | name.com    |
-| simple.sbs | premium   | $414.38   | $552.50       | high           | medium | 6      | name.com    |
-| jesus.sbs  | premium   | $141.44   | $282.88       | high           | medium | 5      | namesilo    |
 | acerb.sbs  | available | $1.54     | $25.98        | low            | low    | 5      | namecheap   |
 | humane.sbs | resell    | —         | —             | high           | low    | 6      | Dynadot LLC |
 | ada.sbs    | premium   | $282.88   | $565.76       | medium         | medium | 3      | namesilo    |
@@ -84,6 +80,10 @@ print(df.head())
 | balmy.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
 | boy.sbs    | premium   | $77       | $154          | medium         | low    | 3      | namecheap   |
 | bowed.sbs  | available | $1.54     | $25.98        | low            | low    | 5      | namecheap   |
+| clx.sbs    | premium   | $68.43    | $147.20       | low            | low    | 3      | namesilo    |
+| eaten.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
+| cup.sbs    | premium   | $309.40   | $618.80       | high           | low    | 3      | namecheap   |
+| faded.sbs  | available | $1.49     | —             | medium         | low    | 5      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
