@@ -1,10 +1,10 @@
-# Available .SBS One-Word Domains (28,970)
+# Available .SBS One-Word Domains (29,931)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C970%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C931%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sbs one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,970 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,931 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,970 domains · **Median ask:** $45.42 · **High-demand under $2,500:** 74
+**Public extract:** 1,000 rows · **Live catalog:** 29,931 domains · **Median ask:** $46.21 · **High-demand under $2,500:** 74
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/sbs`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| jesus.sbs  | premium   | $141.44   | $282.88       | high           | medium | 5      | namesilo    |
 | acerb.sbs  | available | $1.54     | $25.98        | low            | low    | 5      | namecheap   |
 | humane.sbs | resell    | —         | —             | high           | low    | 6      | Dynadot LLC |
 | ada.sbs    | premium   | $282.88   | $565.76       | medium         | medium | 3      | namesilo    |
 | acold.sbs  | available | $1.54     | $25.98        | low            | low    | 5      | namecheap   |
 | ale.sbs    | premium   | $65.45    | $140.80       | medium         | low    | 3      | namesilo    |
-| acute.sbs  | available | $1.49     | $24.99        | high           | low    | 5      | name.com    |
-| ant.sbs    | premium   | $77       | $154          | high           | medium | 3      | namecheap   |
 | adieu.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
-| ass.sbs    | premium   | $384      | $768          | low            | low    | 3      | namesilo    |
+| ant.sbs    | premium   | $77       | $154          | high           | medium | 3      | namecheap   |
 | amuse.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
-| big.sbs    | premium   | $103.12   | $137.50       | high           | medium | 3      | name.com    |
+| ass.sbs    | premium   | $384      | $768          | low            | low    | 3      | namesilo    |
 | antic.sbs  | available | $1.54     | $25.98        | low            | low    | 5      | namecheap   |
-| bob.sbs    | premium   | $282.88   | $565.76       | high           | medium | 3      | namesilo    |
-| balmy.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
-| boy.sbs    | premium   | $77       | $154          | medium         | low    | 3      | namecheap   |
+| big.sbs    | premium   | $390      | $780          | medium         | low    | 3      | namecheap   |
 | bowed.sbs  | available | $1.54     | $25.98        | low            | low    | 5      | namecheap   |
-| clx.sbs    | premium   | $68.43    | $147.20       | low            | low    | 3      | namesilo    |
+| bob.sbs    | premium   | $384      | $768          | medium         | low    | 3      | namesilo    |
 | eaten.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
+| boy.sbs    | premium   | $77       | $154          | medium         | low    | 3      | namecheap   |
+| fussy.sbs  | available | $1.54     | $25.98        | low            | low    | 5      | namecheap   |
+| clx.sbs    | premium   | $68.43    | $147.20       | low            | low    | 3      | namesilo    |
+| heads.sbs  | available | $1.49     | —             | high           | low    | 5      | name.com    |
 | cup.sbs    | premium   | $384      | $768          | medium         | low    | 3      | namesilo    |
-| faded.sbs  | available | $1.49     | —             | medium         | low    | 5      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,970 live domains                        |
+| 1,000-row public sample | 29,931 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 74 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SBS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

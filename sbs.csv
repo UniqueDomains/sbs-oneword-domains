@@ -20,7 +20,7 @@ dac0ca99-9b94-4b5c-8f92-db70a3aed6e4,liv.sbs,premium,192,384,low,low,3,namesilo,
 e47fff9d-45e2-41ac-b375-13731dc09aad,stealaway.sbs,available,1.49,,low,low,10,name.com,,,
 e7814862-db81-479f-88d8-b7765ed664f7,crayola.sbs,premium,282.88,565.76,high,medium,7,namesilo,,,
 38469bad-0ef2-4722-b8d5-b40a65fead13,lightbulb.sbs,available,1.49,,high,low,10,name.com,,,
-8a1a612b-c1ca-4bae-8099-db5e5d5a1878,two.sbs,premium,103.12,137.5,high,low,3,name.com,,,
+8a1a612b-c1ca-4bae-8099-db5e5d5a1878,two.sbs,premium,384,768,medium,low,3,namesilo,,,21/09/2026 12:14
 3e3b44f3-b6e4-4aba-83c7-f2fcbf3e8a7c,actinic.sbs,available,1.54,25.98,low,low,7,namecheap,,,
 5f6bd1c7-8024-48a5-b937-4da91f4eadba,axle.sbs,premium,16.52,33.04,high,high,4,namesilo,,,
 5ffb0a26-877f-463a-8f68-80842ad89387,addlepated.sbs,available,1.54,25.98,low,low,10,namecheap,,,
@@ -32,7 +32,7 @@ c83430d5-9078-4c2b-90e6-90dca20a6324,gutcheck.sbs,available,1.49,,medium,low,9,n
 f235e0cb-9b98-4c92-85cc-c468b99c2185,connect.sbs,premium,384,768,medium,medium,7,namesilo,,,07/08/2026 07:16
 c807e072-ed8e-44cf-9c69-4bee2f90ba0e,latter.sbs,available,1.49,,high,low,6,name.com,,,
 17f5e6ae-2c19-4c46-82df-fd7fc68e1bae,saved.sbs,premium,154.7,309.4,high,low,5,namecheap,,,
-77116cbf-3642-4b39-a2eb-689b673ad156,auditory.sbs,available,1.49,,high,low,8,name.com,,,
+77116cbf-3642-4b39-a2eb-689b673ad156,auditory.sbs,available,1.88,19.49,medium,low,8,namesilo,,,22/09/2026 12:39
 049b8e0e-db18-4ea2-ac9e-25f72df79c25,idiotic.sbs,available,1.49,24.99,medium,low,7,name.com,,,
 702dc0d8-caf0-45ef-9f59-52f38ddae500,rats.sbs,premium,16.52,33.04,medium,low,4,namesilo,,,
 9d636909-62c1-4cf7-b1e1-9dcd91273d9b,muhfuggah.sbs,available,1.49,,medium,low,9,name.com,,,
@@ -59,11 +59,11 @@ e5bbb403-5a44-4500-8719-ace8e4b1ceb8,unanimously.sbs,available,1.49,,medium,low,
 ca80dfa4-16b3-4771-8079-8d2bdaa5174d,hey.sbs,premium,309.4,618.8,medium,medium,3,namecheap,,,
 43452681-ae79-4808-9ac2-b2f430d344a5,highway.sbs,premium,141.44,282.88,medium,low,7,namesilo,,,
 e608f6c4-e145-42cb-9233-e2c402feea8c,socialcapital.sbs,premium,46.61,94.8,medium,low,14,namesilo,,,
-89cb5f70-1c7a-42d9-9b2e-df12b7a17d8f,cordial.sbs,available,1.49,24.99,high,low,7,name.com,,,
+89cb5f70-1c7a-42d9-9b2e-df12b7a17d8f,cordial.sbs,available,1.54,25.98,medium,low,7,namecheap,,,21/09/2026 21:39
 2cbe0582-7ced-4557-80e9-d045eb4c8d50,anoestrous.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 fecd57ea-d8ea-46fb-94e9-696fd16d723b,streetnumber.sbs,available,1.49,,medium,low,13,name.com,,,
 c5cd3afb-accd-45f3-a077-ddd5a4e31942,laborious.sbs,available,1.54,25.98,low,low,9,namecheap,,,06/08/2026 17:00
-7c3f51f4-a309-439b-9fc7-1461f69f3104,binding.sbs,available,1.49,,high,low,7,name.com,,,
+7c3f51f4-a309-439b-9fc7-1461f69f3104,binding.sbs,available,1.54,25.98,medium,low,7,namecheap,,,22/09/2026 20:51
 d6f54000-292e-471c-87ba-5b781ca37b30,dominated.sbs,premium,51.56,68.75,medium,low,9,name.com,,,
 bd14fb99-fa7c-4445-9582-dd4dd6622b17,fussy.sbs,available,1.54,25.98,low,low,5,namecheap,,,08/08/2026 07:47
 e3071cc1-e9b0-42eb-886f-7b21c7f2db48,backtosquareone.sbs,available,1.49,,high,low,18,name.com,,,
@@ -71,7 +71,7 @@ e3071cc1-e9b0-42eb-886f-7b21c7f2db48,backtosquareone.sbs,available,1.49,,high,lo
 0a2b9764-16af-43f5-8e52-c1c5e6451a5c,intime.sbs,premium,420,840,medium,low,7,namecheap,,,
 a37fcddc-2f83-4211-8e83-c1788ce47a38,surprise.sbs,premium,38.5,77,high,low,8,namecheap,,,
 9ff32da1-181c-4475-86ac-b5ab96a3a0ea,pissabout.sbs,available,1.49,,low,low,10,name.com,,,
-9837a8e2-9a3a-49ce-bfba-bdb1487eb100,bigger.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
+9837a8e2-9a3a-49ce-bfba-bdb1487eb100,bigger.sbs,premium,390,780,medium,low,6,namecheap,,,22/09/2026 20:34
 9b9c46f5-1262-4f3d-aad7-18c2bbd271e6,coat.sbs,premium,282.88,565.76,high,low,4,namesilo,,,
 f88b6aa5-7a77-4539-aedc-73f26f129ae8,learn.sbs,premium,309.4,618.8,high,medium,5,namecheap,,,
 39a53068-02ad-4e6d-815c-bf5a808f2215,affiliated.sbs,available,1.54,25.98,low,low,10,namecheap,,,
@@ -85,7 +85,7 @@ c3b2b24c-f4a9-4588-a17b-0fc6f2f0d637,woven.sbs,available,1.49,,high,low,5,name.c
 ccdb1b1a-baf4-471a-8d36-175024233118,muffin.sbs,available,1.49,,high,low,6,name.com,,,
 23ef459d-a558-4200-a117-32b2c49b1e24,parkingattendant.sbs,available,1.49,,medium,low,17,name.com,,,
 66e09b44-b3e8-4992-ab57-492aa4371d3c,discount.sbs,premium,282.88,565.76,high,low,8,namesilo,,,
-a08372e5-9798-4cf6-b637-baa3346d62f4,stretch.sbs,premium,207.19,276.25,high,low,7,name.com,,,
+a08372e5-9798-4cf6-b637-baa3346d62f4,stretch.sbs,premium,195,390,medium,low,7,namecheap,,,21/09/2026 20:13
 56066c73-df51-4b00-bbb1-756a137e058a,distract.sbs,available,1.49,,high,low,8,name.com,,,
 d2087975-fd8a-4544-916d-b3ac48cfc883,lookatme.sbs,available,1.49,,medium,low,10,name.com,,,
 e1174891-7677-49ed-bb27-0f6ca8c55625,anhydrous.sbs,available,1.54,25.98,low,low,9,namecheap,,,
@@ -126,7 +126,7 @@ ef051719-9df1-4c23-bfc9-de04b24e4235,running.sbs,premium,154.7,309.4,medium,low,
 1e6c129e-343e-4576-b8b9-fa7d788478fa,ruined.sbs,premium,154.7,309.4,medium,low,6,namecheap,,,
 eacf75b7-3185-416c-8044-3c231a71ec53,hairfollicle.sbs,available,1.49,,high,low,13,name.com,,,
 fed1ec12-e51d-4513-9d56-8aca5de6d8b7,stubborn.sbs,available,1.49,,high,low,8,name.com,,,
-29b065b6-18ef-4682-b43b-0a7081ad65b9,accidental.sbs,available,1.54,25.98,low,low,10,namecheap,,,
+29b065b6-18ef-4682-b43b-0a7081ad65b9,accidental.sbs,available,1.54,25.98,medium,low,10,namecheap,,,
 052bd9ee-deaf-41a4-aeef-eacb1c9b9c91,cooking.sbs,premium,192,384,medium,low,7,namesilo,,,08/09/2026 08:19
 70f502d6-dbe2-4016-9655-a842832f444d,berlin.sbs,premium,282.88,565.76,high,low,6,namesilo,,,
 65758039-0aed-4323-a688-396c37672589,eat.sbs,premium,282.88,565.76,high,low,3,namesilo,,,
@@ -162,9 +162,9 @@ c17623d7-be95-4ab8-b424-ebfe12e28880,pressure.sbs,premium,32.45,65.45,high,low,8
 553a4776-2b5b-4c1e-a386-121abb29fdee,sealed.sbs,available,1.49,,medium,low,6,name.com,,,
 6c6f0061-d595-4435-96a3-ca3e0b3921c8,anaglyphic.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 0781a2f7-e89e-4ba8-82dd-0783bffa09b0,phoney.sbs,available,1.54,25.98,low,low,6,namecheap,,,08/08/2026 23:14
-bad7fbb4-0cb9-4667-927b-57d497f0614c,audacious.sbs,available,1.49,,high,low,9,name.com,,,
+bad7fbb4-0cb9-4667-927b-57d497f0614c,audacious.sbs,available,1.88,19.49,medium,low,9,namesilo,,,22/09/2026 12:06
 7e7a74b1-01ff-4f8f-b2cf-e4487435ffa9,ruboff.sbs,available,1.49,,low,low,7,name.com,,,
-24594d5b-a06c-4389-b9f4-8ccb2f7526fc,ordered.sbs,available,1.49,,high,low,7,name.com,,,
+24594d5b-a06c-4389-b9f4-8ccb2f7526fc,ordered.sbs,premium,68.43,147.2,low,low,7,namesilo,,,22/09/2026 08:32
 77152f1a-d38e-4692-a59c-608677823141,laid.sbs,premium,16.52,33.04,medium,low,4,namesilo,,,
 e8672f0f-150d-4757-b0dc-e7bca8d43ee0,goback.sbs,available,1.49,,high,low,7,name.com,,,
 4f50af36-b762-4d36-813b-afac1e88dc67,familyrestaurant.sbs,available,1.49,,high,low,17,name.com,,,
@@ -176,13 +176,13 @@ b0b366d2-c5c1-4568-b498-ef3c920ee8e5,anatropous.sbs,available,1.54,25.98,low,low
 2b3e4325-9b2e-4945-b4fe-c26b89d43607,boy.sbs,premium,77,154,medium,low,3,namecheap,,,
 328e4fa1-3376-4ee9-928d-f5a4a3dc5410,length.sbs,available,1.49,,high,low,6,name.com,,,
 b9601674-419e-416b-bdde-1659e72fd165,offered.sbs,available,1.49,,low,low,7,name.com,,,
-40e26a61-27c9-4f4a-af7c-e2a9ce486860,forward.sbs,premium,207.19,276.25,medium,low,7,name.com,,,
-dbdd8cbc-782d-43b3-a5c8-93c1fbe2a64e,xxvi.sbs,premium,13.65,18.2,medium,low,4,namecheap,,,
-aba1e166-d5d8-4332-af22-f7452278c5da,acute.sbs,available,1.49,24.99,high,low,5,name.com,,,
+40e26a61-27c9-4f4a-af7c-e2a9ce486860,forward.sbs,premium,195,390,low,low,7,namecheap,,,21/09/2026 20:55
+dbdd8cbc-782d-43b3-a5c8-93c1fbe2a64e,xxvi.sbs,premium,11.8,23.6,low,low,4,namesilo,,,21/09/2026 12:52
+aba1e166-d5d8-4332-af22-f7452278c5da,acute.sbs,premium,384,768,medium,low,5,namesilo,,,21/09/2026 16:39
 1d9fc8d4-026b-42d4-8fdd-226de8cf143e,aeriferous.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 0e654f85-30ec-4c72-9b89-bc40ced805d1,neverending.sbs,available,1.49,,low,low,12,name.com,,,
 00d7623f-5e11-44b5-9ca9-8a7f9da4dee6,inthegreen.sbs,available,1.49,,medium,low,12,name.com,,,
-454ac129-10ac-4e8c-aa08-e1ea2710f3d3,abiding.sbs,available,1.49,24.99,high,low,7,name.com,,,
+454ac129-10ac-4e8c-aa08-e1ea2710f3d3,abiding.sbs,available,1.88,19.49,medium,low,7,namesilo,,,21/09/2026 13:52
 1ee79098-3cff-459a-8d60-9a1d96bd2446,asoneman.sbs,available,1.49,,medium,low,10,name.com,,,
 37b282c5-1f19-4bc9-ae7b-32a6b6e0a478,beam.sbs,premium,16.52,33.04,medium,medium,4,namesilo,,,
 5c6b77eb-577f-4096-b0d3-8f20b1336079,retardant.sbs,available,1.49,,high,low,9,name.com,,,
@@ -195,7 +195,7 @@ f19848c4-1214-4658-b2b2-1b5a700b78f4,wasnt.sbs,available,1.49,,medium,low,5,name
 336d6b22-6870-47ee-ac61-8293d112ba57,burned.sbs,available,1.49,,medium,low,6,name.com,,,
 2aff1d75-4f42-47a8-9c92-542be1521d39,extremely.sbs,available,1.49,,medium,low,9,name.com,,,
 47eb326d-e773-4c0b-9ed6-b58df216f4e8,footballmatch.sbs,available,1.49,,high,low,14,name.com,,,
-f405c045-47d8-439c-a5a1-1b1eb891e876,sexy.sbs,premium,309.4,618.8,high,low,4,namecheap,,,
+f405c045-47d8-439c-a5a1-1b1eb891e876,sexy.sbs,premium,384,768,medium,low,4,namesilo,,,22/09/2026 07:13
 c6660777-4c1e-4e03-96f9-50370085d859,havenotimefor.sbs,available,1.49,,medium,low,16,name.com,,,
 7d3c1952-ef2d-41ef-b215-4be53802fbbd,solvable.sbs,available,1.49,,high,low,8,name.com,,,
 56882bcb-d926-4c25-ac65-c24b506a68bc,letterpaper.sbs,available,1.49,,medium,low,12,name.com,,,
@@ -218,7 +218,7 @@ bf14b0d7-e5c2-4d46-89ff-c3e692f65f0b,aegeansea.sbs,available,1.54,25.98,low,low,
 001fda79-e9d3-4346-bbc5-e09ef82937c7,acrophobic.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 347b16eb-a670-49fe-81e7-0466fb8f8787,critique.sbs,available,1.49,,high,low,8,name.com,,,
 6db35a25-fa60-4f99-9fbe-68742f53fcfd,adieu.sbs,available,1.49,,high,low,5,name.com,,,
-c1f506a6-673e-475d-b29e-d745e5a64b48,alamode.sbs,premium,207.19,276.25,high,low,9,name.com,,,
+c1f506a6-673e-475d-b29e-d745e5a64b48,alamode.sbs,premium,68.43,147.2,medium,low,9,namesilo,,,21/09/2026 13:34
 dee8a98a-dd8f-42a9-9a37-d5130fe647fc,beetle.sbs,premium,384,768,low,low,6,namesilo,,,09/08/2026 08:17
 9d213c36-e7a6-4f5d-85cc-6a2287f9756d,comparable.sbs,available,1.49,24.99,high,low,10,name.com,,,
 2f12134c-fb9a-49f0-9037-7eedc3e17b49,organized.sbs,premium,32.45,65.45,high,low,9,namesilo,,,
@@ -229,17 +229,17 @@ b929a4d1-604d-499f-8d7d-9f0e534e230f,glancing.sbs,available,1.49,,high,low,8,nam
 7e391d0d-d538-454a-b101-45d5259c92a4,days.sbs,premium,19.6,39.2,high,low,4,namecheap,,,
 85f41f8d-d7ba-4446-a5a8-cef6224b962c,pertinent.sbs,available,1.54,25.98,low,low,9,namecheap,,,06/08/2026 07:59
 3445e189-e871-483d-a574-fe9655a0f117,eachandevery.sbs,available,1.49,,medium,low,14,name.com,,,
-9762c3b4-88a7-4df6-a2b6-6137d3a76dff,derelict.sbs,available,1.49,24.99,high,low,8,name.com,,,
+9762c3b4-88a7-4df6-a2b6-6137d3a76dff,derelict.sbs,available,1.54,25.98,low,low,8,namecheap,,,21/09/2026 13:39
 b867dbb1-54db-42ef-9bd1-a6a0e4208e33,makethefirstmove.sbs,available,1.49,,high,low,19,name.com,,,
 50557731-154d-40f5-9bd1-2da4eb00b1cc,corrective.sbs,available,1.49,24.99,high,low,10,name.com,,,
 3e539b20-306f-4f43-925e-a3ea94de5e81,havethefirstidea.sbs,available,1.49,,medium,low,19,name.com,,,
 a995f240-9980-4b08-aec0-0ab0bc16e0a6,ant.sbs,premium,77,154,high,medium,3,namecheap,,,
 fa04cbd1-7f61-4b13-851d-4af4b2289bd4,resounding.sbs,available,1.49,,high,low,10,name.com,,,
 c6f3ff51-40fa-4a7b-b21d-8f3f29241142,afrikander.sbs,available,1.54,25.98,low,low,10,namecheap,,,
-47f0a5bc-b2ee-4b29-9f4b-b5965002ad25,break.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
+47f0a5bc-b2ee-4b29-9f4b-b5965002ad25,break.sbs,premium,384,768,low,low,5,namesilo,,,22/09/2026 17:01
 b2236881-e05a-4159-a735-d0567cf4eb65,nation.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 83e95f4e-2829-44da-9863-e1dd7a75caac,recorded.sbs,available,1.49,,medium,low,8,name.com,,,
-e5dfbc10-ee65-4c11-9f27-9b5d477cd125,damn.sbs,premium,26.25,35,high,low,4,name.com,,,
+e5dfbc10-ee65-4c11-9f27-9b5d477cd125,damn.sbs,premium,384,768,medium,low,4,namesilo,,,22/09/2026 00:35
 82578584-dd56-4ce1-b9c3-7f7affea4288,matte.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
 81b05cb6-8feb-4d62-b2bd-cba24dce204d,articulary.sbs,available,1.54,25.98,low,low,10,namecheap,,,06/08/2026 23:31
 699c4db8-6479-4196-9fec-5908a781d5d2,stygian.sbs,available,1.54,25.98,low,low,7,namecheap,,,
@@ -260,7 +260,7 @@ a815cc45-cf24-4bf1-bde3-1f151917bf39,aphakic.sbs,available,1.54,25.98,low,low,7,
 cc0ff3ca-569b-4a79-aa40-7eb7d377a900,xliii.sbs,available,1.54,25.98,low,low,5,namecheap,,,
 9d73379b-94e1-4c2f-b2e5-21314e3f0775,doyoumind.sbs,available,1.49,,medium,low,11,name.com,,,
 4538c454-37cc-4db6-a513-872704c15e48,anosmic.sbs,available,1.54,25.98,low,low,7,namecheap,,,
-d233ec26-59cb-4cb8-94fb-05d1d0017f1d,athletic.sbs,premium,51.56,68.75,high,low,8,name.com,,,
+d233ec26-59cb-4cb8-94fb-05d1d0017f1d,athletic.sbs,premium,74.75,149.5,medium,low,8,namecheap,,,21/09/2026 16:12
 0c8d726d-bca7-4a21-a760-49aeb8adbdcc,engagementring.sbs,available,1.49,,high,low,15,name.com,,,
 399e7895-0f50-4f76-baf4-b90287c09288,supernatural.sbs,premium,16.52,33.04,high,low,12,namesilo,,,
 6ab2f2fe-e3f2-47a0-8497-1b3cadbd13ad,revealing.sbs,available,1.49,,high,low,9,name.com,,,
@@ -293,9 +293,9 @@ e3b059f6-7f2b-40f8-a883-75ee30195a0a,speculation.sbs,available,1.49,,low,low,11,
 62eb8bc9-2e2e-41e3-bf5a-ef7cadcf473a,aslant.sbs,available,1.54,25.98,low,low,6,namecheap,,,07/08/2026 03:56
 c9cd03e2-0be6-4daa-8e78-dede3b9e8f5a,spellingword.sbs,available,1.49,,medium,low,13,name.com,,,
 53dc7b11-90d0-4a85-9897-2c95ee81686f,commonkiwi.sbs,available,1.49,,medium,low,11,name.com,,,
-4d30946a-df3b-4587-8c0b-0a4d08773a27,investing.sbs,premium,68.43,147.2,medium,low,9,namesilo,,,19/09/2026 07:46
+4d30946a-df3b-4587-8c0b-0a4d08773a27,investing.sbs,premium,68.43,147.2,medium,low,9,namesilo,,,23/09/2026 03:25
 e0047ee9-8f79-4d2e-9126-7928b147e105,coach.sbs,premium,282.88,565.76,high,low,5,namesilo,,,
-23df53e8-1172-4bc9-9c29-13831ff8515e,network.sbs,premium,384,768,medium,low,7,namesilo,,,19/09/2026 04:36
+23df53e8-1172-4bc9-9c29-13831ff8515e,network.sbs,premium,384,768,medium,low,7,namesilo,,,23/09/2026 02:58
 3f6eeffb-07a8-453b-bf89-5a114f814d6c,manualwork.sbs,available,1.49,,medium,low,11,name.com,,,
 28bbdde8-3b60-4bc1-9623-f5756788bec5,concertroom.sbs,available,1.49,,medium,low,12,name.com,,,
 e6e395e7-ff84-4a7c-8f57-29c7085bf90b,middleage.sbs,available,1.49,,medium,low,10,name.com,,,
@@ -304,11 +304,11 @@ ab960707-cf83-4866-8907-a832eda7f1ec,agronomic.sbs,available,1.54,25.98,low,low,
 df067cbf-5b20-4445-b327-b3752b2155fe,schmalzy.sbs,available,1.54,25.98,low,low,8,namecheap,,,09/08/2026 01:09
 a6fc0a31-959f-4303-a555-c6aed8aea852,grains.sbs,premium,420,840,medium,low,6,namecheap,,,
 125eb763-1631-45aa-b883-b38ba06d6cfa,burly.sbs,premium,384,768,low,low,5,namesilo,,,09/08/2026 07:54
-8edf6a0a-8b96-4a3e-ac0f-feb2f3017cda,selfless.sbs,premium,51.56,68.75,high,low,8,name.com,,,
+8edf6a0a-8b96-4a3e-ac0f-feb2f3017cda,selfless.sbs,premium,68.43,147.2,medium,low,8,namesilo,,,22/09/2026 02:51
 0f520412-b40a-4086-a6d1-09e27773ea00,alienate.sbs,available,1.54,25.98,low,low,8,namecheap,,,
 807f1b77-2d51-4d1d-9466-de0fb9975e9e,birthday.sbs,premium,282.88,565.76,high,low,8,namesilo,,,
 6f667de7-36a0-4dc3-a5dd-3c622541ac8a,public.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
-127f9b40-1c80-4f69-9a17-29da1b03ae19,acid.sbs,premium,46.61,94.8,low,low,4,namesilo,,,
+127f9b40-1c80-4f69-9a17-29da1b03ae19,acid.sbs,premium,46.61,94.8,medium,low,4,namesilo,,,
 78a9a8b4-12da-4778-a7b9-3f32aceea9b5,anticipated.sbs,available,1.54,25.98,low,low,11,namecheap,,,08/09/2026 14:34
 092bb38e-bf2c-4592-a50d-6836477e65de,divers.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 bccdd6fa-9f5b-46f5-a273-b3ce3b004c82,acronym.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
@@ -323,10 +323,10 @@ c35c667e-c2b4-467a-91ac-35fff15ae497,televisionprogram.sbs,available,1.49,,high,
 6c435bb7-a003-4ed6-ae38-891b5a324b3d,although.sbs,premium,32.45,65.45,medium,low,8,namesilo,,,
 b8e8fafb-01ed-46b2-9076-1ffc4ab24a02,datatable.sbs,available,1.49,,high,low,10,name.com,,,
 37ac90ac-2d6e-472c-8d92-e87db637e99b,steady.sbs,available,1.49,,high,low,6,name.com,,,
-94a630ef-0521-431a-a343-9393e2105d77,orso.sbs,premium,13.65,18.2,medium,low,5,namecheap,,,
+94a630ef-0521-431a-a343-9393e2105d77,orso.sbs,premium,13,26,low,low,5,namecheap,,,21/09/2026 14:25
 4d7250e4-5976-4145-8f06-e8615f7e714f,munich.sbs,premium,154.7,309.4,medium,low,6,namecheap,,,
 93f707c4-f543-451f-85d2-9a6311b329a8,passion.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
-8d404733-09c2-4c5d-a12b-d07b519cd303,abovetheline.sbs,available,1.49,,medium,low,14,name.com,,,
+8d404733-09c2-4c5d-a12b-d07b519cd303,abovetheline.sbs,available,1.49,,low,low,14,name.com,,,
 e85bb5ad-b00c-4b5c-9420-04eca509a429,holder.sbs,premium,141.44,282.88,medium,low,6,namesilo,,,
 c1fb97bc-5b7a-4c99-95ad-ebee8dfedc32,throw.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
 d7d42f09-d9e6-4560-8577-61185c5fca48,secondly.sbs,available,1.49,,medium,low,8,name.com,,,
@@ -349,7 +349,7 @@ b23ad00d-a068-4061-9ef1-8f9d1fce7423,courtyard.sbs,premium,32.45,65.45,high,low,
 186312e3-298f-40d8-a853-bc52833d3b8a,basket.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 4a57dbbe-8ae8-4890-8626-d115adc1892d,history.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
 ff728794-dd3e-4dde-8ea5-a64ff68288f6,srilanka.sbs,available,,,low,low,9,,,,
-f0a0ea2b-46e3-4e69-8931-fd09b87ee6e3,forth.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
+f0a0ea2b-46e3-4e69-8931-fd09b87ee6e3,forth.sbs,premium,384,768,low,low,5,namesilo,,,22/09/2026 14:59
 973f07c3-fa06-4475-8d3e-a419112d7605,vantagepoint.sbs,available,1.49,,high,low,13,name.com,,,
 0ee1cf98-0ceb-4ee2-9bfc-fa8dcd982462,nowthat.sbs,available,1.49,,low,low,8,name.com,,,
 d94527a9-1b51-448f-9ee0-50d6f635d4a1,xxviii.sbs,available,1.54,25.98,low,low,6,namecheap,,,
@@ -360,7 +360,7 @@ be92e829-b0e2-486f-a77d-85f9afa52ba6,lynxeyed.sbs,available,1.54,25.98,low,low,9
 4625ea9c-36db-4a75-bf10-cc2e87e2c54a,documents.sbs,premium,68.43,147.2,medium,low,9,namesilo,,,
 6a253698-b852-44c1-99b5-577c4e6bc566,thirtyone.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 ccc98603-5824-479d-9871-751f991d1bca,gasstation.sbs,available,1.49,,medium,low,11,name.com,,,
-27915078-71c5-4982-85ee-e63ec859852e,stark.sbs,premium,141.44,282.88,high,medium,5,namesilo,,,
+27915078-71c5-4982-85ee-e63ec859852e,stark.sbs,premium,384,768,low,low,5,namesilo,,,22/09/2026 13:23
 f5ce9c8e-ef94-4e01-8e42-7471a3e9b3ce,viewer.sbs,premium,141.44,282.88,medium,low,6,namesilo,,,
 fc382117-0b1b-43db-a239-d007df934c12,among.sbs,premium,141.44,282.88,medium,low,5,namesilo,,,
 ce57d3f4-4245-4bc7-93f6-eb26765766b8,seventeen.sbs,premium,68.43,147.2,medium,low,9,namesilo,,,19/09/2026 06:27
@@ -373,7 +373,7 @@ a3a35782-1dc3-4d76-ba96-5f5cf0392a0e,youguys.sbs,available,1.49,,low,low,8,name.
 02c05079-d448-452a-bd85-cdac021214e1,behave.sbs,available,1.49,,high,low,6,name.com,,,
 905a6c57-dffc-43ed-b270-8e3ae2ab32a7,belarusian.sbs,premium,192,384,low,low,10,namesilo,,,09/08/2026 12:32
 15700505-5e9f-4c04-b827-d532fb75429a,apparent.sbs,premium,68.43,147.2,low,low,8,namesilo,,,06/08/2026 05:08
-1e582719-6cf0-4a22-80b7-9a7ecc794daf,august.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
+1e582719-6cf0-4a22-80b7-9a7ecc794daf,august.sbs,premium,768,1596,low,low,6,namesilo,,,22/09/2026 12:44
 466cc4ee-7f76-4c85-afa5-7b37f7d075a9,thanksalot.sbs,available,1.49,,medium,low,12,name.com,,,
 5fe313d2-1114-4d61-afc6-e5907949f15f,accumbent.sbs,available,1.54,25.98,low,low,9,namecheap,,,
 7a337406-302f-40c4-8dde-48b4294c6a9a,westeuropean.sbs,available,1.49,,low,low,13,name.com,,,
@@ -384,7 +384,7 @@ bde1ffa2-f5d1-42ee-bce1-9da324d64503,coverart.sbs,available,1.49,,high,low,9,nam
 fc2b5d55-3350-4968-8b39-5aa945fef734,retarded.sbs,premium,1.49,,medium,low,8,name.com,,,
 7c8a7cac-6c0a-4a19-b8c2-4e0e9dcae9f5,achromatic.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 e7e4133c-96c9-483b-83da-99fd9f12f54a,perceiving.sbs,available,1.49,,high,low,10,name.com,,,
-964d5f53-9406-49da-bd26-da63361b7269,one.sbs,premium,414.38,552.5,high,medium,3,name.com,,,
+964d5f53-9406-49da-bd26-da63361b7269,one.sbs,premium,780,1560,medium,low,3,namecheap,,,21/09/2026 10:37
 2c8b5133-9c89-4f12-9ab0-15062bff5eca,temple.sbs,premium,154.7,309.4,medium,high,6,namecheap,,,
 6af7744e-8be5-418d-a1da-f03ef4290665,rectify.sbs,available,1.49,24.99,high,low,7,name.com,,,
 6e1c2439-193c-4e98-b924-0d97c4753ef9,confetti.sbs,premium,32.45,65.45,high,low,8,namesilo,,,
@@ -394,16 +394,16 @@ cd46cd3a-3567-48aa-8273-2d45b0e0f53f,chocolate.sbs,premium,282.88,565.76,high,lo
 0e7d354f-660f-4b84-bdd6-102740248cb1,receptionchair.sbs,available,1.49,,medium,low,15,name.com,,,
 b89a5730-8329-4e41-8bbb-811244e571cd,way.sbs,premium,309.4,618.8,high,low,3,namecheap,,,
 3d55e77a-f92a-4a25-984e-6819987189ee,leavethedooropen.sbs,available,1.49,,high,low,19,name.com,,,
-99e360ca-771d-4e7d-8080-87467b9cf520,aujus.sbs,available,1.49,,medium,low,6,name.com,,,
+99e360ca-771d-4e7d-8080-87467b9cf520,aujus.sbs,available,1.88,19.49,low,low,6,namesilo,,,22/09/2026 11:49
 6348f26e-5763-4ba7-88ed-2c89d5ec1e87,alkahestic.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 b3db1fe0-62fd-4ebb-9aa3-f603ac8a2348,howtheturntables.sbs,available,1.49,,medium,low,18,name.com,,,
-39c1fb33-0279-4df9-8024-1a7a385365ab,later.sbs,premium,207.19,276.25,high,low,5,name.com,,,
+39c1fb33-0279-4df9-8024-1a7a385365ab,later.sbs,premium,384,768,medium,low,5,namesilo,,,21/09/2026 22:11
 4462842f-3d48-492d-95c5-568d89dd0529,purple.sbs,premium,154.7,309.4,medium,medium,6,namecheap,,,
 9f2b2b7c-779f-40c4-a3b9-ebe5433531c8,bflat.sbs,available,1.49,,medium,low,6,name.com,,,
 eb256446-e30d-4878-8c6a-d8d2295d6b1b,childmolestation.sbs,available,1.49,,medium,low,17,name.com,,,
 2b88dff8-44a5-4bdb-a04b-106477bb5891,mandatory.sbs,available,1.49,24.99,high,low,9,name.com,,,
 f6c75bf7-4345-4782-876e-e9b392ea6297,backswept.sbs,available,1.54,25.98,low,low,9,namecheap,,,08/08/2026 06:37
-37063a56-4e0d-4cc5-9f0a-2cb56083a5fe,abovenamed.sbs,available,1.49,,medium,low,11,name.com,,,
+37063a56-4e0d-4cc5-9f0a-2cb56083a5fe,abovenamed.sbs,available,1.49,,low,low,11,name.com,,,
 1cab7ad6-73cc-4568-85e6-a8aa9992620c,neighbour.sbs,premium,32.45,65.45,high,low,9,namesilo,,,
 dfb4d989-bd0f-4d60-a803-c2beb8f4ae99,music.sbs,premium,282.88,565.76,high,medium,5,namesilo,,,
 b181752d-7c9c-4cd4-bd2b-6a88ec308165,sunvisor.sbs,available,1.49,,high,low,9,name.com,,,
@@ -419,7 +419,7 @@ c035b06a-e529-4af7-ad1a-15a14fadd438,detection.sbs,available,,,medium,low,9,,,,
 2343c957-d7ad-41dd-a161-aca3e6c56cec,amuse.sbs,available,1.49,,high,low,5,name.com,,,
 33670fc1-ba47-485c-99f5-c95549a9cbc0,linear.sbs,premium,384,768,low,low,6,namesilo,,,
 e8663555-30fc-4fe2-9117-d1df98e78c43,windows.sbs,premium,74.75,149.5,medium,low,7,namecheap,,,19/09/2026 04:22
-6b9286c6-0a8b-4697-883a-89de2d426bcb,ruby.sbs,premium,8.26,16.52,high,low,4,namesilo,,,
+6b9286c6-0a8b-4697-883a-89de2d426bcb,ruby.sbs,premium,384,768,medium,low,4,namesilo,,,22/09/2026 22:32
 1521e084-7e4b-4807-8210-0c6a0963f35b,pot.sbs,premium,65.45,140.8,high,low,3,namesilo,,,
 c18d242e-d12d-4170-a609-dcef4c458733,autogenic.sbs,available,1.54,25.98,low,low,9,namecheap,,,07/08/2026 20:21
 fc5a09a8-a844-411f-b982-a3782e5d13d0,beetling.sbs,available,1.54,25.98,low,low,8,namecheap,,,09/08/2026 08:22
@@ -436,7 +436,6 @@ e92ba864-501a-4266-8fd1-cad2d43418e3,amok.sbs,premium,46.61,94.8,low,low,4,names
 7535d0af-58e8-4c17-b6bd-4490cde714a1,desolate.sbs,available,1.54,25.98,low,low,8,namecheap,,,08/08/2026 21:07
 fa50368f-05b9-46aa-9bd7-1dc5a6e6774a,widowed.sbs,available,1.49,,medium,low,7,name.com,,,
 b472d533-2485-4579-badc-eac2344aa5e2,band.sbs,premium,16.52,33.04,medium,low,4,namesilo,,,
-025e7569-246e-440e-8c11-413d62731cfe,balmy.sbs,available,1.49,,high,low,5,name.com,,,
 a1817886-9c8a-48b5-8a31-792fdc519e70,thug.sbs,premium,16.52,33.04,high,low,4,namesilo,,,
 d41d1c22-8568-4a18-8c5e-c7a48b030522,thinking.sbs,premium,32.45,65.45,high,low,8,namesilo,,,
 22ae3885-cc2d-4177-8df5-1ca8e78dd66c,yellowpages.sbs,premium,384,768,medium,low,12,namesilo,,,
@@ -446,14 +445,14 @@ d41d1c22-8568-4a18-8c5e-c7a48b030522,thinking.sbs,premium,32.45,65.45,high,low,8
 4d7dfd38-ea8b-4f68-a6df-649c4fc347fe,inlovewith.sbs,available,1.49,,medium,low,12,name.com,,,
 a15bdbf6-ef11-4b7b-b4f8-e44fe1e43e17,sise.sbs,premium,11.8,23.6,low,low,4,namesilo,,,
 9e473c04-ed39-41f0-a0b4-9d342f07020c,shouted.sbs,available,1.49,,medium,low,7,name.com,,,
-384fcccc-2ba4-479e-baa8-c453de95d522,big.sbs,premium,103.12,137.5,high,medium,3,name.com,,,
+384fcccc-2ba4-479e-baa8-c453de95d522,big.sbs,premium,390,780,medium,low,3,namecheap,,,21/09/2026 20:03
 c10ce56f-78b5-4e0a-8128-8b17470b96a2,otic.sbs,premium,11.8,23.6,low,low,4,namesilo,,,07/08/2026 17:41
 84cfc67a-9360-42dd-a463-d502d4ca76ad,yellownotice.sbs,available,1.49,,medium,low,13,name.com,,,
 afbf7a46-6aad-43e0-b469-427f42ac679a,sink.sbs,premium,16.52,33.04,medium,low,4,namesilo,,,
 ee88d0eb-841a-47c4-bd98-4f70b3474375,jay.sbs,premium,65.45,140.8,medium,low,3,namesilo,,,
 426b4dc2-cb72-4183-9f42-c5c7c22b7d9a,astern.sbs,available,1.54,25.98,low,low,6,namecheap,,,
 c675dc84-8c03-499b-990d-715e70bd009c,colombo.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
-645f64d9-9341-45df-8000-a003f80f6efe,bluegreen.sbs,available,1.49,,high,low,10,name.com,,,
+645f64d9-9341-45df-8000-a003f80f6efe,bluegreen.sbs,available,1.88,19.49,medium,low,10,namesilo,,,22/09/2026 22:55
 d56b8229-f21a-44eb-8a63-d5db302c75a7,mosquito.sbs,premium,38.5,77,medium,low,8,namecheap,,,
 a9c0f2a7-2b32-419d-bf5a-eb6aa50888c2,pray.sbs,premium,16.52,33.04,medium,low,4,namesilo,,,
 4ed2e492-0040-48f8-9f81-6f83d01d195d,accoutered.sbs,available,1.54,25.98,low,low,10,namecheap,,,
@@ -497,7 +496,7 @@ fa3aebf4-ee12-4ea6-8bbf-00aa57582e36,barbecue.sbs,premium,32.45,65.45,high,low,8
 16a006c2-8e36-46dc-b4ac-79a611e4c527,autotelic.sbs,available,1.54,25.98,low,low,9,namecheap,,,07/08/2026 21:08
 2436c961-0772-4c3b-a3a3-f6cf01f494cf,device.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 50f3df80-8d0f-497b-8767-a1b0d0bd63c0,nearer.sbs,available,1.49,,medium,low,6,name.com,,,
-8696da28-c009-43b0-ad75-847f533f18ea,alpha.sbs,premium,207.19,276.25,high,medium,5,name.com,,,
+8696da28-c009-43b0-ad75-847f533f18ea,alpha.sbs,premium,384,768,medium,low,5,namesilo,,,22/09/2026 02:07
 ba8f682e-5e37-41b2-942c-b17e6c4be289,hivvirus.sbs,available,1.49,,medium,low,9,name.com,,,
 0af8dfc1-6095-4589-8368-cdd078515c2d,copewith.sbs,available,1.49,,high,low,9,name.com,,,
 2ca5239c-99ef-4e3f-8e99-9a0fe190cc67,there.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
@@ -512,7 +511,7 @@ c5cf5360-8835-4436-9fba-cdb1adca8706,baboonish.sbs,available,1.54,25.98,low,low,
 c4a4a32e-a9a4-4a3e-b848-8c1ff2f09c5d,automobile.sbs,premium,32.45,65.45,high,low,10,namesilo,,,
 400cbc16-3a5c-4f86-ad62-3321271c19e3,limiting.sbs,available,1.49,24.99,medium,low,8,name.com,,,
 1f5c0e20-cb84-484b-a4f6-acd769e21af3,affixal.sbs,available,1.54,25.98,low,low,7,namecheap,,,
-7d9f3a3e-3aa5-41ef-86d7-9c9d72e0a95f,alright.sbs,premium,207.19,276.25,high,low,7,name.com,,,
+7d9f3a3e-3aa5-41ef-86d7-9c9d72e0a95f,alright.sbs,premium,384,768,medium,low,7,namesilo,,,22/09/2026 01:15
 3ff9c3be-6d95-45bf-8cc8-cb0bb5e49ea7,nowornever.sbs,available,1.49,,low,low,12,name.com,,,
 9d0c0ec3-532f-4895-b025-e8001106539a,cleopatra.sbs,premium,32.45,65.45,high,low,9,namesilo,,,
 8cd39eb5-5e2d-4511-b7bd-ddfe6bc902e7,childofcolour.sbs,available,1.49,,medium,low,15,name.com,,,
@@ -520,7 +519,7 @@ e09dee6f-b947-4530-b74e-a5e8744f24c5,aroused.sbs,premium,192,384,low,low,7,names
 d64c5f9f-c054-47b9-be30-c78effd57f35,touchon.sbs,available,1.54,25.98,low,low,8,namecheap,,,17/09/2026 14:12
 f6870705-85e1-4fea-8648-8ae0288b7010,lxii.sbs,premium,11.8,23.6,low,low,4,namesilo,,,
 945a00c8-74e2-4e13-818f-eafeac9875cc,autoecious.sbs,available,1.54,25.98,low,low,10,namecheap,,,07/08/2026 19:51
-c98a639b-5593-44e4-bdf8-c63987c89cdb,beatup.sbs,available,1.49,,medium,low,7,name.com,,,
+c98a639b-5593-44e4-bdf8-c63987c89cdb,beatup.sbs,available,1.99,31.99,low,low,7,name.com,,,22/09/2026 18:16
 0c805f10-fcdf-4ae5-a58f-4af3d9f023a3,territory.sbs,premium,32.45,65.45,high,low,9,namesilo,,,
 2f055f15-f79a-4883-918e-a3b81ef363e2,leader.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 c7043fa0-c93d-4f6f-baac-09f2e1a821ca,joined.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
@@ -533,12 +532,12 @@ a1db4927-caa4-4ccc-b3e3-fe33cac19e28,exhaustsystem.sbs,available,1.49,,medium,lo
 07eb60a6-dd3f-4e1c-b325-897eef24175d,teens.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
 6b69875a-2830-4468-91f7-2feff6d7f88a,clinic.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 06c6e43c-14e0-4587-a750-dbbebfdf94df,howareyoudoing.sbs,available,1.49,,medium,low,17,name.com,,,
-4fd335f9-a269-4aae-97ce-b5041cdba406,tempting.sbs,available,1.49,24.99,high,low,8,name.com,,,
+4fd335f9-a269-4aae-97ce-b5041cdba406,tempting.sbs,available,1.88,19.49,medium,low,8,namesilo,,,22/09/2026 01:44
 12d3618a-a047-4bec-ba1b-bd4b06a6f6ab,intoodeep.sbs,available,1.49,,medium,low,11,name.com,,,
 4a5abdd3-1575-49b4-9784-d107b212d80a,long.sbs,premium,16.52,33.04,high,low,4,namesilo,,,
 9cdad2f7-677e-48e7-8e2c-827d9866fe04,prick.sbs,available,1.54,25.98,low,low,5,namecheap,,,08/08/2026 23:38
 c0ad49ab-51eb-40c9-aeb6-dbeab94007a5,ourboy.sbs,available,1.49,,low,low,7,name.com,,,
-e955e349-3674-467b-9698-b2e1ac43d5c8,aboveground.sbs,available,1.49,,medium,low,12,name.com,,,
+e955e349-3674-467b-9698-b2e1ac43d5c8,aboveground.sbs,available,1.49,,low,low,12,name.com,,,
 c0dccad6-ad33-4528-abd8-ba07267fda1c,normandy.sbs,available,1.49,,medium,low,8,name.com,,,
 4e96942d-11ac-4efb-8bbd-46d39ae5042d,analogous.sbs,available,1.54,25.98,low,low,9,namecheap,,,
 0705aca3-14ca-496d-a69e-2700605ef85a,ada.sbs,premium,282.88,565.76,medium,medium,3,namesilo,,,
@@ -547,7 +546,7 @@ af42fdbf-4dd5-41e8-bd7a-caf4e9569e84,mothafucka.sbs,available,1.49,,medium,low,1
 33d83b07-f9df-4c9c-9688-afa5bcbfbfca,virtual.sbs,premium,384,768,medium,low,7,namesilo,,,19/09/2026 09:02
 d0505d74-a773-43d2-bf43-486d01ea21e9,reasonable.sbs,available,1.49,,high,low,10,name.com,,,
 8211fd27-f31b-4ccd-87e3-71f1e625b3c7,abient.sbs,available,1.54,25.98,low,low,6,namecheap,,,
-d765c22d-b08d-4e3c-ac75-0daa08bede3e,reliable.sbs,available,1.49,,high,low,8,name.com,,,
+d765c22d-b08d-4e3c-ac75-0daa08bede3e,reliable.sbs,premium,68.43,147.2,medium,low,8,namesilo,,,22/09/2026 13:45
 99d4c8ed-d7b8-400b-8689-12f1c0acb040,arrhythmic.sbs,available,1.54,25.98,low,low,10,namecheap,,,06/08/2026 21:53
 4aae9b85-edd1-4f68-92a8-3d59bcc3c250,toothwork.sbs,available,1.49,,low,low,9,name.com,,,
 55b5cf62-17c1-4ee6-92a5-a70edca9de93,parliamentary.sbs,premium,16.52,33.04,medium,low,13,namesilo,,,
@@ -571,15 +570,15 @@ d7015682-83e2-40f0-afc0-c5acf7133273,arsenious.sbs,available,1.54,25.98,low,low,
 cca7e449-2af5-4dc9-b91e-177271d9ae9b,listenin.sbs,available,1.49,,medium,low,9,name.com,,,
 8b71c9b3-26b4-4560-b376-d732de4d0d95,terrific.sbs,premium,32.45,65.45,high,low,8,namesilo,,,
 3abbef8d-0e91-4ba1-a223-611d5f78f619,informally.sbs,available,1.49,,medium,low,10,name.com,,,
-c7325fc9-20c8-4a7e-aa5b-be13600e43f8,simple.sbs,premium,390,780,medium,low,6,namecheap,,,19/09/2026 05:32
-83a0d52e-c62e-4e30-a36f-e0423cb30d05,helper.sbs,premium,141.44,282.88,medium,low,6,namesilo,,,
+c7325fc9-20c8-4a7e-aa5b-be13600e43f8,simple.sbs,premium,384,768,medium,low,6,namesilo,,,23/09/2026 05:02
+83a0d52e-c62e-4e30-a36f-e0423cb30d05,helper.sbs,premium,384,768,low,low,6,namesilo,,,22/09/2026 09:58
 fff65ed8-7700-4621-b97a-3f583f546d81,divinelaw.sbs,available,1.49,,medium,low,10,name.com,,,
 44cd787c-7e52-4cd8-8617-c79555c1bb16,aversive.sbs,available,1.54,25.98,low,low,8,namecheap,,,07/08/2026 22:40
 d65d20fa-7190-40c0-a1b7-486c688fc03d,balzacian.sbs,available,1.54,25.98,low,low,9,namecheap,,,08/08/2026 10:50
 0d8bd879-6f5b-4877-9780-9c0a32bf3576,players.sbs,premium,68.43,147.2,medium,low,7,namesilo,,,
 738764d6-a8b1-4291-8f82-59473b36b53d,jewnose.sbs,available,1.49,,medium,low,8,name.com,,,
 623668f0-2ef2-4586-ac80-2e8ad43a3387,foreign.sbs,premium,192,384,low,low,7,namesilo,,,
-7c0c6b8c-c847-471a-966f-702255e9020f,ecological.sbs,available,1.49,,high,low,10,name.com,,,
+7c0c6b8c-c847-471a-966f-702255e9020f,ecological.sbs,available,1.54,25.98,medium,low,10,namecheap,,,22/09/2026 21:01
 e6104800-19fe-4914-b891-2b9fc428244f,hannukah.sbs,available,1.49,,medium,low,8,name.com,,,
 2b2fc4ae-7d1a-4636-b32d-4dd39690fb8a,pizzeria.sbs,premium,32.45,65.45,high,low,8,namesilo,,,
 bd3e561d-792a-4917-9ab8-9f08b4f38bac,analphabet.sbs,available,1.54,25.98,low,low,10,namecheap,,,
@@ -588,26 +587,26 @@ f13bf8c0-2d44-4665-a34d-7a2e2d678c69,hardcider.sbs,available,1.49,,high,low,10,n
 094c0d76-69bd-4818-9818-3d516f067a5a,malaria.sbs,available,1.49,,medium,low,7,name.com,,,
 f15b5e39-22b5-492e-9163-db20f9cb728c,poisoning.sbs,available,1.49,,medium,low,9,name.com,,,
 43bc7cd5-d5cc-4215-a510-d1edaa2e6397,observer.sbs,available,1.49,,medium,low,8,name.com,,,
-c1ba7674-422d-45f2-b2ad-3673168e8a15,absorbed.sbs,available,1.49,24.99,high,low,8,name.com,,,
+c1ba7674-422d-45f2-b2ad-3673168e8a15,absorbed.sbs,premium,68.43,147.2,medium,low,8,namesilo,,,21/09/2026 14:58
 327056c1-7916-4286-9c18-b298d4b3f8b9,usually.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
 7d4376b0-d65b-486b-a9ff-e3017c8dee9d,plasticsurgeon.sbs,available,,,high,low,15,,,,
 21868706-8059-4d7e-9ad3-4c417a6518a4,zooming.sbs,available,1.49,,high,low,7,name.com,,,
 1e3013a5-2e05-43d6-826d-763f23486b61,modernday.sbs,available,1.49,24.99,high,low,10,name.com,,,
 3f7cf5e2-069b-4481-9571-2ee16014722e,topless.sbs,available,1.54,25.98,low,low,7,namecheap,,,08/08/2026 18:33
 e7b82170-c931-4345-944b-9f105aa407be,soup.sbs,premium,16.52,33.04,high,low,4,namesilo,,,
-4fd41065-5ec5-43ce-b1d9-e4829bbb6490,trinity.sbs,premium,207.19,276.25,high,low,7,name.com,,,
+4fd41065-5ec5-43ce-b1d9-e4829bbb6490,trinity.sbs,premium,384,768,low,low,7,namesilo,,,21/09/2026 13:07
 c6972d85-75a5-4772-a9a5-9f6a4be45931,childhood.sbs,available,1.49,,high,low,9,name.com,,,
 f4064d0f-a2b2-4471-a7bb-2cb1c8ba44a7,circus.sbs,premium,282.88,565.76,high,low,6,namesilo,,,
 fecec241-c404-4e6f-a78a-a78eb5541010,unioncity.sbs,premium,192,384,medium,low,10,namesilo,,,
 290d03d0-d9bf-47f9-9808-c746968cf201,lvi.sbs,premium,192,384,low,low,3,namesilo,,,
 a0e6857e-4a27-493e-9f6a-6eacc5c83016,hindermost.sbs,available,1.54,25.98,low,low,10,namecheap,,,08/08/2026 05:58
 2edd8032-2f66-414b-81ec-0f9bc895b317,tipped.sbs,available,1.54,25.98,low,low,6,namecheap,,,07/08/2026 13:33
-329a3977-441f-4ac0-9e45-80ec6f46ed5d,abuzz.sbs,available,,,medium,low,5,,,,
+329a3977-441f-4ac0-9e45-80ec6f46ed5d,abuzz.sbs,available,,,low,low,5,,,,
 594941d7-1eaf-4bde-95b0-4a34d3946de5,abscessed.sbs,available,1.54,25.98,low,low,9,namecheap,,,
 61508f31-4fbd-4f54-bf1a-82aa553ea959,fidgety.sbs,available,1.54,25.98,low,low,7,namecheap,,,05/08/2026 20:32
-b1399224-b932-4691-9bf6-96902cf29f65,bold.sbs,premium,282.88,565.76,high,low,4,namesilo,,,
+b1399224-b932-4691-9bf6-96902cf29f65,bold.sbs,premium,384,768,medium,low,4,namesilo,,,22/09/2026 23:09
 8a87007a-ff33-4947-ae60-38422e08cc92,oddman.sbs,available,1.49,,low,low,7,name.com,,,
-16690d67-d680-4692-ae61-fbe3036c2d8a,eight.sbs,premium,207.19,276.25,high,low,5,name.com,,,
+16690d67-d680-4692-ae61-fbe3036c2d8a,eight.sbs,premium,384,768,medium,low,5,namesilo,,,21/09/2026 13:20
 12078fb3-1927-4697-bb70-7fd63e19526b,titlepolicy.sbs,available,1.49,,medium,low,12,name.com,,,
 072c4366-b71e-4bf5-83c4-6c77fc40c983,spirit.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 a703b761-212c-4ff4-aab5-1c8fc5a84ecc,playitsafe.sbs,available,1.49,,medium,low,12,name.com,,,
@@ -639,7 +638,7 @@ a6491f1d-5d0b-4bd3-a50d-a9c5b9684914,simplicity.sbs,available,,,high,low,10,,,,
 df44f50f-804d-4f1a-a2dd-48a1064a2d4c,heads.sbs,available,1.49,,high,low,5,name.com,,,
 d7a102cb-8a27-4702-83c5-2cb299f7c165,thatone.sbs,available,1.49,,low,low,8,name.com,,,
 950ccd03-b0f7-4e6c-963a-27aba034fdba,giraffe.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
-413af897-8c03-4535-9892-d74b4e281ceb,adored.sbs,premium,207.19,276.25,high,low,6,name.com,,,
+413af897-8c03-4535-9892-d74b4e281ceb,adored.sbs,premium,390,780,low,low,6,namecheap,,,21/09/2026 19:35
 173427d8-70db-42a6-90cd-98e1c07efad7,switch.sbs,premium,282.88,565.76,high,medium,6,namesilo,,,
 bc1740dc-770e-47bd-a60d-998b363ef4e6,classicalguitar.sbs,available,1.49,,high,low,16,name.com,,,
 0f111c5f-2e28-4ea0-840c-b1979f51a329,fuckyou.sbs,premium,141.44,282.88,medium,low,8,namesilo,,,
@@ -667,7 +666,7 @@ e35b389c-c6d7-4cc1-bc61-effc0c36733b,trees.sbs,premium,384,768,medium,low,5,name
 2a6aaa5b-379a-44b3-9d42-937828d5d803,givein.sbs,available,1.49,,high,low,7,name.com,,,
 0996e6fa-e5ba-41c2-aadb-8e97e677cdcf,principles.sbs,premium,192,384,low,low,10,namesilo,,,
 8f59a208-e894-420a-9279-1dd281237a62,trey.sbs,premium,11.8,23.6,medium,low,4,namesilo,,,
-0f450659-7b77-4a21-a1fc-fb5ed925bc95,closeto.sbs,available,1.49,24.99,medium,low,8,name.com,,,
+0f450659-7b77-4a21-a1fc-fb5ed925bc95,closeto.sbs,available,1.54,25.98,low,low,8,namecheap,,,21/09/2026 14:09
 a780ffd7-c585-4970-b0f6-4528a9452807,conveyable.sbs,available,1.54,25.98,low,low,10,namecheap,,,07/08/2026 06:24
 65400361-19ad-4dc7-aedb-a49b37b11f53,abaxial.sbs,available,1.54,25.98,low,low,7,namecheap,,,
 395ea63e-d181-4f9c-89f7-a898eefc8842,makegoodtime.sbs,available,1.49,,high,low,14,name.com,,,
@@ -681,7 +680,7 @@ ef5674fb-1ed9-448a-8858-e58510d12049,upstage.sbs,premium,68.43,147.2,low,low,7,n
 7cabdb15-c08b-411e-b460-cb9f525c647e,canon.sbs,premium,384,768,low,low,5,namesilo,,,19/09/2026 11:56
 ee2ffac0-57f7-49ef-864b-7770ece5cdf8,racist.sbs,premium,384,768,low,low,6,namesilo,,,
 1384de0c-8bfb-4d4d-9694-83d85f814697,bakery.sbs,premium,282.88,565.76,high,low,6,namesilo,,,
-a9c3fa8e-26d8-43cc-9d29-4d5926a29c7d,quick.sbs,premium,207.19,276.25,high,medium,5,name.com,,,
+a9c3fa8e-26d8-43cc-9d29-4d5926a29c7d,quick.sbs,premium,384,768,low,low,5,namesilo,,,21/09/2026 23:09
 11119d11-d4b2-4c26-963a-c49a0baf3cd1,compete.sbs,available,1.49,,high,low,7,name.com,,,
 03a58b4c-a34a-49ea-868d-fed5f5514675,ser.sbs,premium,77,154,high,low,3,namecheap,,,
 3e11e3d8-cc49-44f4-8479-60cc65d55a3b,argentine.sbs,available,,,high,low,9,,,,
@@ -689,12 +688,12 @@ a9c3fa8e-26d8-43cc-9d29-4d5926a29c7d,quick.sbs,premium,207.19,276.25,high,medium
 ffcc4935-eea0-4ecc-b7ea-9b3d18b65142,attainable.sbs,available,1.88,19.49,medium,low,10,namesilo,,,19/09/2026 04:15
 44902084-61e9-4ff8-9f18-39168e47c451,wearoff.sbs,available,1.49,,low,low,8,name.com,,,
 a1c75524-6d1d-49f1-b233-66375dfb3200,wound.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
-e0363d97-29f2-4945-b358-b7011d0888c3,bob.sbs,premium,282.88,565.76,high,medium,3,namesilo,,,
+e0363d97-29f2-4945-b358-b7011d0888c3,bob.sbs,premium,384,768,medium,low,3,namesilo,,,22/09/2026 23:31
 b9441f92-bdd4-4528-a11d-a3951f7cf7fb,anosmatic.sbs,available,1.54,25.98,low,low,9,namecheap,,,
 b7e329f8-6a26-42d0-a48f-1d44d9951bb6,nowfor.sbs,available,1.49,,low,low,7,name.com,,,
 8ec87fe8-801b-44f5-aed3-6f30fceeaccc,arboresque.sbs,available,1.54,25.98,low,low,10,namecheap,,,06/08/2026 13:34
 432f7808-1395-46f2-b988-19b8bbaafe31,luncheonsausage.sbs,available,1.49,,high,low,16,name.com,,,
-5fb10d09-658f-4139-a1e8-c08307221b3b,food.sbs,premium,384,768,medium,low,4,namesilo,,,19/09/2026 10:31
+5fb10d09-658f-4139-a1e8-c08307221b3b,food.sbs,premium,384,768,medium,low,4,namesilo,,,23/09/2026 03:58
 b14133b7-b6ac-4deb-b7a2-b5fff0fd92f3,enterthechat.sbs,available,1.49,,medium,low,14,name.com,,,
 9683670e-17d9-454d-94cf-6f0210f8b1e1,drive.sbs,premium,207.19,276.25,high,low,5,name.com,,,
 d14779e2-124c-40a3-8c15-caa5964f14ff,godforbid.sbs,available,1.49,,medium,low,10,name.com,,,
@@ -718,7 +717,7 @@ a210543a-5a29-4b3c-a77c-89410d4d0d88,empowering.sbs,available,1.49,,high,low,10,
 508a068a-3d15-4da5-85ec-8ba51403a40e,liveblog.sbs,available,1.49,,high,low,9,name.com,,,
 bc160230-0731-4be6-b3c9-e437912144d2,negotiate.sbs,premium,32.45,65.45,high,low,9,namesilo,,,
 b7149cbc-a40e-4264-8ca4-3b8e4de7baa1,report.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
-6b0fb8ae-59c1-41f1-b7c7-8af1bb25b632,binary.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
+6b0fb8ae-59c1-41f1-b7c7-8af1bb25b632,binary.sbs,premium,384,768,medium,low,6,namesilo,,,22/09/2026 20:45
 06cda580-70e0-4f77-9762-a06be2ece642,shelter.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
 dfe0a213-2e3b-4c3a-a14d-364dbc6c10b7,lick.sbs,premium,16.52,33.04,medium,low,4,namesilo,,,
 9cc5b65e-ca91-4a40-a5ca-cd2907c83260,income.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
@@ -733,7 +732,7 @@ cbe571e0-b9d5-4942-ae6e-e2474a419512,lowdown.sbs,available,1.54,25.98,low,low,8,
 7e4e88b2-5d28-4b12-b3a5-115a3ae9a792,ibegyourpardon.sbs,available,1.49,,medium,low,17,name.com,,,
 07398756-b41e-4126-9a5c-9af786598547,northern.sbs,premium,32.45,65.45,high,low,8,namesilo,,,
 35378272-8cd5-4307-92f7-564ddf459915,pandabear.sbs,available,1.49,,high,low,10,name.com,,,
-045d57d5-5310-41a6-9efb-4eb1500480e6,blonde.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
+045d57d5-5310-41a6-9efb-4eb1500480e6,blonde.sbs,premium,384,768,medium,low,6,namesilo,,,22/09/2026 22:17
 2bc65085-cf42-4043-ad72-d85596e200f3,huge.sbs,premium,16.52,33.04,high,low,4,namesilo,,,
 6196ee7c-1fcc-43ce-84de-fd6cac21f6c0,hell.sbs,premium,282.88,565.76,medium,low,4,namesilo,,,
 d7c256a7-bce3-4b0a-ae3c-fd3e945651c5,listen.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
@@ -745,18 +744,18 @@ b5256eef-1faa-48c4-b3af-a74a0418df67,lorry.sbs,premium,141.44,282.88,high,low,5,
 446db826-c19b-47ef-811d-176ede028fe5,prior.sbs,premium,141.44,282.88,medium,low,5,namesilo,,,
 e67ea60d-471f-443b-81b8-fec0dff8bc15,barbarous.sbs,available,1.54,25.98,low,low,9,namecheap,,,08/08/2026 15:40
 7c31deec-98e4-4896-bec1-8728241ffe28,xxiv.sbs,premium,11.8,23.6,low,low,4,namesilo,,,
-31483f96-4f77-471a-ac58-937d5daf2902,decade.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
-54463303-b9aa-4258-9b62-1143715be1a5,weakened.sbs,available,1.49,,medium,low,8,name.com,,,
-13033642-c60c-4262-ae0d-0774740c10e5,futile.sbs,available,1.49,,medium,low,6,name.com,,,
-18c58d0f-9775-4a23-a315-4d51c78b401c,clear.sbs,premium,207.19,276.25,high,medium,5,name.com,,,
-97d73467-1c46-4574-b5aa-99248ec08e4d,armed.sbs,premium,154.7,309.4,high,low,5,namecheap,,,
+31483f96-4f77-471a-ac58-937d5daf2902,decade.sbs,premium,384,768,medium,low,6,namesilo,,,21/09/2026 10:56
+54463303-b9aa-4258-9b62-1143715be1a5,weakened.sbs,available,1.88,19.49,low,low,8,namesilo,,,22/09/2026 11:29
+13033642-c60c-4262-ae0d-0774740c10e5,futile.sbs,available,1.88,19.49,low,low,6,namesilo,,,22/09/2026 23:49
+18c58d0f-9775-4a23-a315-4d51c78b401c,clear.sbs,premium,390,780,medium,low,5,namecheap,,,21/09/2026 14:46
+97d73467-1c46-4574-b5aa-99248ec08e4d,armed.sbs,premium,390,780,low,low,5,namecheap,,,22/09/2026 07:55
 d70720a7-2391-4425-ab1d-517c9dc34388,advertised.sbs,available,1.54,25.98,low,low,10,namecheap,,,
 251e0e6f-8d99-4cdd-bae2-48523ce60af7,hence.sbs,available,1.49,,medium,low,5,name.com,,,
 799894aa-c39a-4ff4-acc4-d0232a8260dd,bridges.sbs,premium,154.7,309.4,high,low,7,namecheap,,,
 13dd8011-b447-4b42-8446-5a6e4098e4dd,roast.sbs,premium,154.7,309.4,high,low,5,namecheap,,,
 508775be-b6b1-4ced-8098-9ed6b0d6b9c6,candidate.sbs,premium,32.45,65.45,high,low,9,namesilo,,,
 9e1bd351-c320-4a86-8f8f-9e2534435d60,cherryblossom.sbs,premium,68.43,147.2,high,low,14,namesilo,,,
-3fa5278d-30ee-47a8-b146-51baa909c46f,heavy.sbs,premium,154.7,309.4,high,low,5,namecheap,,,
+3fa5278d-30ee-47a8-b146-51baa909c46f,heavy.sbs,premium,384,768,medium,low,5,namesilo,,,22/09/2026 07:40
 6d0adbce-54f7-4f4d-9cd6-97a9180912fd,isaidwhatisaid.sbs,available,1.49,,medium,low,18,name.com,,,
 90c6893a-e22c-4c29-9872-a4d429912bad,atatime.sbs,available,1.49,,medium,low,9,name.com,,,
 c2343ec2-7563-4e67-b8af-1cedc69026c4,philippines.sbs,available,,,low,low,11,,,,
@@ -771,12 +770,12 @@ c2343ec2-7563-4e67-b8af-1cedc69026c4,philippines.sbs,available,,,low,low,11,,,,
 0c3eb57b-444d-4b34-ac88-e4598e9c4063,inane.sbs,available,1.54,25.98,low,low,5,namecheap,,,07/08/2026 02:43
 687302e3-b9c4-431a-ae43-a080adb7be30,blanched.sbs,available,1.54,25.98,low,low,8,namecheap,,,07/08/2026 02:14
 f119782c-f996-4ede-af89-6a09a1fbdcb5,manymoonsago.sbs,available,1.49,,medium,low,14,name.com,,,
-09d1fbae-cd69-42e0-af8d-fa9eb97f6234,bacterial.sbs,available,1.49,,medium,low,9,name.com,,,
+09d1fbae-cd69-42e0-af8d-fa9eb97f6234,bacterial.sbs,available,1.99,31.99,low,low,9,name.com,,,22/09/2026 16:00
 a1560b4e-dcc8-4e46-87fb-3d585af89ef4,teamwork.sbs,premium,38.5,77,high,low,8,namecheap,,,
 efa48705-6c8d-4af5-9972-c06b4d78e135,hallwaymonitor.sbs,available,1.49,,medium,low,15,name.com,,,
 90f16591-dcb6-4108-8ea5-6a2d8ac5dd88,iwantmymoneyback.sbs,available,1.49,,medium,low,20,name.com,,,
 f43b24d2-16bf-429c-a8af-3ff550c03884,humane.sbs,resell,,,high,low,6,Dynadot LLC,18/02/2026 03:22,18/02/2027 23:59,
-e47b56cf-3c5d-44e1-bd7f-80cedbab3e7a,automotive.sbs,premium,32.45,65.45,high,low,10,namesilo,,,
+e47b56cf-3c5d-44e1-bd7f-80cedbab3e7a,automotive.sbs,premium,68.43,147.2,medium,low,10,namesilo,,,22/09/2026 14:07
 b9b9551a-3ffa-4026-b6ed-f36fd23ff2c9,evolve.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 46285a42-9fe7-4be2-8e0e-99486a3c5072,vigor.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
 f4ee78f5-42b8-421e-80ad-f26f9686ea78,assoonas.sbs,available,1.49,,medium,low,10,name.com,,,
@@ -786,14 +785,14 @@ b00c7690-b593-4dfd-ace0-0c3c9f44f7b6,orange.sbs,premium,282.88,565.76,high,high,
 3cd26fd2-36b3-4023-90f1-19ecbf2a84aa,bacchanal.sbs,available,1.54,25.98,low,low,9,namecheap,,,08/08/2026 04:14
 1c909b67-2562-4710-b2f8-696206b64af2,plunkfor.sbs,available,1.54,25.98,low,low,9,namecheap,,,08/08/2026 05:28
 d9db941c-394b-4cf6-807a-2e1bf401c56c,asking.sbs,available,1.49,,high,low,6,name.com,,,
-3b4eda9f-94a5-49c4-bd73-5a3bc66e85e2,anonymous.sbs,premium,282.88,565.76,medium,low,9,namesilo,,,
+3b4eda9f-94a5-49c4-bd73-5a3bc66e85e2,anonymous.sbs,premium,74.06,98.75,low,low,9,name.com,,,22/09/2026 05:30
 dfce1b4e-fcb8-400d-95af-ffcf54ced8c8,adverse.sbs,premium,68.43,147.2,low,low,7,namesilo,,,
 d827e1a5-b82f-44a6-af89-4b005faacc47,gym.sbs,premium,309.4,618.8,high,low,3,namecheap,,,
 a1e8324e-cbc7-4bad-afb5-3041fc61ba68,turmeric.sbs,available,1.88,19.49,medium,low,8,namesilo,,,19/09/2026 15:28
 4f38898a-8cb8-4f81-86ea-5a2df1ffe022,disney.sbs,premium,141.44,282.88,high,high,6,namesilo,,,
 f2803133-28c4-4018-97e2-e734d1b0f787,abdicable.sbs,available,1.54,25.98,low,low,9,namecheap,,,
 c681cece-57e3-4f00-8e72-25ac04412ad2,acquirable.sbs,available,1.54,25.98,low,low,10,namecheap,,,
-fa06dadf-d632-49e7-9e14-c249322f5d14,whatever.sbs,premium,38.5,77,high,low,8,namecheap,,,
+fa06dadf-d632-49e7-9e14-c249322f5d14,whatever.sbs,premium,68.43,147.2,medium,low,8,namesilo,,,22/09/2026 06:56
 3d4f704d-dd47-40ff-b3d0-64852d4c658d,agrestic.sbs,available,1.54,25.98,low,low,8,namecheap,,,
 aac0a166-dbb9-404d-84f7-f7ed9748582f,harrowing.sbs,available,1.54,25.98,low,low,9,namecheap,,,
 0b386853-9f38-4e16-8f03-c0ab3be84558,laura.sbs,premium,282.88,565.76,high,low,5,namesilo,,,
@@ -811,7 +810,7 @@ dcb4dcec-4cfb-4a25-a95b-0a28a78a4c0e,canadian.sbs,premium,32.45,65.45,high,low,8
 d5e45b21-cc62-4912-a352-38c9567533b8,cryout.sbs,available,1.49,,high,low,7,name.com,,,
 c58cc6e3-40f8-4828-9d27-dbe6ca9dcbd0,ale.sbs,premium,65.45,140.8,medium,low,3,namesilo,,,
 7a2269d4-00ad-49ff-b2e7-a3dacd8d162c,nicole.sbs,premium,282.88,565.76,high,low,6,namesilo,,,
-9e3a4cb8-607d-4968-afee-d00097299dc7,faded.sbs,available,1.49,,medium,low,5,name.com,,,
+9e3a4cb8-607d-4968-afee-d00097299dc7,faded.sbs,premium,384,768,low,low,5,namesilo,,,22/09/2026 11:25
 576bb4ca-f4d2-4aae-8d9f-b23a30caeb22,enginehouse.sbs,available,1.49,,medium,low,12,name.com,,,
 7c9ec731-29ba-4d9c-9295-58181bf2cba6,lateron.sbs,available,1.54,25.98,low,low,8,namecheap,,,
 dccaac94-9c55-45bc-933f-6cc8f9661194,solong.sbs,available,1.49,,medium,low,7,name.com,,,
@@ -852,11 +851,12 @@ ea920da9-f751-4929-a741-4ba6f9a6b61b,standing.sbs,available,1.49,,medium,low,8,n
 81ef180c-5658-4a06-a384-86ca6b5e2e8c,assure.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
 6d13beb4-7e49-48bb-ae40-b3bd2ffdc2f3,awninged.sbs,available,1.54,25.98,low,low,8,namecheap,,,08/08/2026 01:30
 70630b57-f193-4e93-96e1-959fdf8a3335,actually.sbs,premium,32.45,65.45,high,low,8,namesilo,,,
+8dc2453d-768e-4b35-be6d-6f09b1ede407,bloody.sbs,premium,384,768,low,low,6,namesilo,,,22/09/2026 00:33
 12782316-f73e-472c-8eb4-181a707e4312,upandabout.sbs,available,1.49,,low,low,12,name.com,,,
 358cc5bf-ed19-436c-83d1-363909bfac47,diminutive.sbs,available,1.54,25.98,low,low,10,namecheap,,,08/08/2026 14:10
 6191fe2e-f833-4335-9aca-9573a4e9e48a,increased.sbs,available,1.49,,high,low,9,name.com,,,
 544e8cd9-79e1-43ee-91d1-8d850a9febda,standard.sbs,premium,32.45,65.45,medium,medium,8,namesilo,,,
-3038b3f8-1941-4d39-8050-0ab0583eaa3b,enticing.sbs,available,1.49,24.99,high,low,8,name.com,,,
+3038b3f8-1941-4d39-8050-0ab0583eaa3b,enticing.sbs,available,1.88,19.49,medium,low,8,namesilo,,,22/09/2026 01:41
 a451b635-adeb-41bb-bd75-e0dd60078f1f,skill.sbs,premium,141.44,282.88,high,medium,5,namesilo,,,
 92c0a0d0-e4c5-4175-a853-d9e7aaef8b7b,focus.sbs,premium,390,780,medium,low,5,namecheap,,,19/09/2026 06:53
 a43d37b6-2e1e-42b4-9046-bbb34ce60b75,apparel.sbs,premium,71.83,287.3,high,low,7,namecheap,,,
@@ -890,7 +890,7 @@ edd22658-d181-409e-8aa0-da2ae54e58c3,recommendation.sbs,available,1.49,,medium,l
 380b45e3-8df6-4acb-a5ee-f992ab08d971,gently.sbs,available,1.49,,high,low,6,name.com,,,
 35f5fe3f-62c7-4037-9b33-1a25e507d807,complain.sbs,premium,32.45,65.45,medium,low,8,namesilo,,,
 22ff7df6-8fe8-41e1-978e-e21b974eccef,surprisingly.sbs,available,1.49,,medium,low,12,name.com,,,
-a89dfee9-10ee-47ed-9237-d0f0fb08cdc6,average.sbs,premium,141.44,282.88,high,low,7,namesilo,,,
+a89dfee9-10ee-47ed-9237-d0f0fb08cdc6,average.sbs,premium,384,768,medium,low,7,namesilo,,,22/09/2026 14:28
 4fda6a10-3627-42d3-af08-55e750476885,acapnotic.sbs,available,1.54,25.98,low,low,9,namecheap,,,
 c52d4206-38e9-4879-ae00-8a3ffe2d3d9a,humourous.sbs,available,1.49,,high,low,9,name.com,,,
 f015abf8-b42f-4be5-b014-8eefb68ab813,dose.sbs,premium,16.52,33.04,high,low,4,namesilo,,,
@@ -901,7 +901,7 @@ a73513fe-8613-4771-9dab-65e24e5e31d7,deepsleep.sbs,available,1.49,,high,low,10,n
 03fe108b-52e6-410e-90f8-9586050ade4a,closest.sbs,available,1.49,,medium,low,7,name.com,,,
 f9540fb7-3cde-4365-aec1-4fd222863e6f,arboreal.sbs,available,1.54,25.98,low,low,8,namecheap,,,06/08/2026 13:18
 1cf84ba9-1f34-466b-9af4-4b88f6bd8d0c,aplitic.sbs,available,1.54,25.98,low,low,7,namecheap,,,06/08/2026 00:35
-4955c388-b258-4d7d-bc31-9f23554e23bc,booted.sbs,available,1.49,,medium,low,6,name.com,,,
+4955c388-b258-4d7d-bc31-9f23554e23bc,booted.sbs,available,1.88,19.49,low,low,6,namesilo,,,22/09/2026 23:43
 afa32d9e-1550-4c79-9747-27ab4bea3d12,toothcare.sbs,available,1.49,,low,low,9,name.com,,,
 cf12f5d1-a2a9-4f97-bcc1-0db75461000f,from.sbs,premium,384,768,medium,low,4,namesilo,,,08/09/2026 08:57
 5e34ffe6-661e-41ec-8cfd-6a50eb309de0,xcl.sbs,premium,192,384,low,low,3,namesilo,,,
@@ -948,13 +948,13 @@ da6a072b-4766-46f0-ac52-5a5cf054d557,giveoff.sbs,available,1.49,,medium,low,8,na
 fef79866-3ac5-405f-95ea-743c91637b23,warofwords.sbs,available,1.49,,low,low,12,name.com,,,
 b8533fbe-796a-41a4-9ae3-05179ac7a54c,transparent.sbs,available,1.49,,high,low,11,name.com,,,
 67c3d764-93c0-4c22-be7a-8e2d3e528777,comic.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
-6acce70b-30b0-4fe7-aa8f-9598ef408d39,mix.sbs,premium,103.12,137.5,medium,low,3,name.com,,,
+6acce70b-30b0-4fe7-aa8f-9598ef408d39,mix.sbs,premium,384,768,low,low,3,namesilo,,,22/09/2026 03:09
 b7a2c6d8-2808-4faf-be3d-634f5e06f462,firstly.sbs,available,1.49,,medium,low,7,name.com,,,
-ccb067a1-05a1-4704-9897-5c3be5db0747,awkward.sbs,available,1.49,,high,low,7,name.com,,,
+ccb067a1-05a1-4704-9897-5c3be5db0747,awkward.sbs,premium,68.43,147.2,low,low,7,namesilo,,,22/09/2026 15:31
 1aef8bdd-5941-494e-a8d4-5784b6015f48,tickledpink.sbs,available,1.49,,medium,low,12,name.com,,,
 82009e71-c242-4c6c-ae0c-37f8e91850d7,codes.sbs,premium,141.44,282.88,medium,low,5,namesilo,,,
 1d6ba765-84a6-4b78-9bc1-347dc22d1c88,toneofvoice.sbs,available,1.49,,low,low,13,name.com,,,
-c16d5e13-68a6-4092-bb15-329d3e3b63e2,answering.sbs,available,1.49,,high,low,9,name.com,,,
+c16d5e13-68a6-4092-bb15-329d3e3b63e2,answering.sbs,available,1.88,19.49,medium,low,9,namesilo,,,22/09/2026 05:38
 1538a4c3-4986-43cd-83c2-b8261434d3f3,seriousness.sbs,available,1.49,,low,low,11,name.com,,,
 87706f9c-beee-4acb-9965-51d272622633,borrow.sbs,premium,141.44,282.88,medium,low,6,namesilo,,,
 0ef30888-b774-47b1-9b10-53db718a5608,circuit.sbs,available,,,high,low,7,,,,
@@ -970,7 +970,7 @@ f0be7475-4c65-4974-9dad-c9b4f75b6444,motoroil.sbs,available,1.49,,medium,low,9,n
 5b88aff3-2031-4d25-898e-fc0d057ef8a1,letterperfect.sbs,available,1.49,,high,low,14,name.com,,,
 2a9ba8f2-87c2-41a9-8317-1a1680b88d73,hurt.sbs,premium,16.52,33.04,medium,low,4,namesilo,,,
 510f88a1-b8a1-4650-8278-39078dd72ce3,howmuchisit.sbs,premium,192,384,medium,low,14,namesilo,,,
-6683fe1b-33a5-4e5b-be87-c04d06f0075b,mingle.sbs,premium,207.19,276.25,medium,low,6,name.com,,,
+6683fe1b-33a5-4e5b-be87-c04d06f0075b,mingle.sbs,premium,384,768,low,low,6,namesilo,,,22/09/2026 03:11
 ac30a68e-27d6-4046-b48d-2effcf6e979f,whitevinegar.sbs,available,1.49,,low,low,13,name.com,,,
 ec3ad82f-f9c3-43fd-864b-bb817f3b81cf,somebudy.sbs,available,1.49,,medium,low,8,name.com,,,
 b6bf9131-a8c5-4933-b895-e28bf1787835,worthy.sbs,premium,141.44,282.88,high,low,6,namesilo,,,
